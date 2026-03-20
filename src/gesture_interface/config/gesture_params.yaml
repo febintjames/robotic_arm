@@ -1,0 +1,5 @@
+gesture_manager:
+  ros__parameters:
+    storage_path: ~/.ros/gestures
+    sampling_rate: 50.0
+    velocity_scaling: 1.0

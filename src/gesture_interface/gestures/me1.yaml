@@ -1,0 +1,5930 @@
+joint_names:
+- joint1
+- joint2
+- joint3
+points:
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 0.0
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 0.1
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 0.2
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 0.30000000000000004
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 0.4
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 0.5
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 0.6000000000000001
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 0.7000000000000001
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 0.7999999990000001
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 0.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 0.999999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 1.099999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 1.199999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 1.3
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 1.4
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 1.5
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 1.6
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 1.7000000000000002
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 1.8
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 1.9
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 2.0
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 2.1
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 2.2
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 2.3
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 2.4
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 2.5
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 2.6
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 2.7
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 2.8
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 2.9
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 3.0
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 3.1
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 3.2
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 3.3
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 3.4
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 3.5
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 3.6
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 3.7
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 3.8
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 3.9
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 4.0
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 4.1
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 4.2
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 4.3
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 4.4
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 4.5
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 4.599999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 4.699999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 4.799999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 4.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 4.999999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 5.099999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 5.199999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 5.299999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 5.399999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 5.499999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 5.599999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 5.699999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 5.799999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 5.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 5.999999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 6.099999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 6.199999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 6.299999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 6.399999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 6.499999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 6.599999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 6.699999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 6.799999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 6.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 6.999999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 7.099999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 7.199999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 7.299999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 7.399999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 7.499999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 7.599999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 7.699999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 7.799999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 7.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 7.999999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 8.099999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 8.199999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 8.299999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 8.399999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 8.499999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 8.599999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 8.699999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 8.799999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 8.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 8.999999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 9.099999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 9.199999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 9.299999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 9.399999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 9.499999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 9.599999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 9.699999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 9.799999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 9.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 9.999999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 10.099999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 10.199999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 10.299999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 10.399999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 10.499999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 10.599999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 10.699999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 10.799999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 10.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 10.999999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 11.099999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 11.199999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 11.299999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 11.399999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 11.499999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 11.599999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 11.699999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 11.799999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 11.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 11.999999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 12.099999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 12.199999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 12.299999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 12.399999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 12.499999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 12.599999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 12.699999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 12.799999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 12.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 12.999999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 13.099999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 13.199999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 13.299999999
+- positions:
+  - -0.001575390704431876
+  - 0.0031709787255872444
+  - 0.0010098658361742795
+  time_from_start: 13.399999999
+- positions:
+  - -0.00804709687518057
+  - 0.016197361659017317
+  - 0.005158395432808047
+  time_from_start: 13.499999999
+- positions:
+  - -0.019471583829296767
+  - 0.03919280334871276
+  - 0.012481784505959475
+  time_from_start: 13.599999999
+- positions:
+  - -0.035861415723484294
+  - 0.0721825931870132
+  - 0.022988087002233492
+  time_from_start: 13.699999999
+- positions:
+  - -0.05722763604845695
+  - 0.1151889597385608
+  - 0.036684382082344216
+  time_from_start: 13.799999999
+- positions:
+  - -0.08354523066666282
+  - 0.16816155403418023
+  - 0.0535546350427325
+  time_from_start: 13.899999999
+- positions:
+  - -0.11484537369957219
+  - 0.2311631239850364
+  - 0.07361882929459758
+  time_from_start: 13.999999999
+- positions:
+  - -0.15111178559973645
+  - 0.3041609017840847
+  - 0.09686652923060038
+  time_from_start: 14.099999999
+- positions:
+  - -0.19234053124196154
+  - 0.38714696673061455
+  - 0.12329521233459058
+  time_from_start: 14.199999999
+- positions:
+  - -0.2385582603012998
+  - 0.4801749598372322
+  - 0.15292196173160252
+  time_from_start: 14.299999999
+- positions:
+  - -0.2951122183757382
+  - 0.5940079267306518
+  - 0.18917449895880642
+  time_from_start: 14.399999999
+- positions:
+  - -0.35174609470902896
+  - 0.7080017547348414
+  - 0.22547826583912128
+  time_from_start: 14.499999999
+- positions:
+  - -0.41267558626005013
+  - 0.8306418851644604
+  - 0.26453563221798077
+  time_from_start: 14.599999999
+- positions:
+  - -0.47061891781806253
+  - 0.9472714115055859
+  - 0.3016787934731167
+  time_from_start: 14.699999999
+- positions:
+  - -0.5235752453308167
+  - 1.0538629938069013
+  - 0.33562515726334397
+  time_from_start: 14.799999999
+- positions:
+  - -0.5715467933936117
+  - 1.1504211097794506
+  - 0.3663761496112903
+  time_from_start: 14.899999999
+- positions:
+  - -0.6145911781087982
+  - 1.2370617302959128
+  - 0.3939687039158955
+  time_from_start: 14.999999999
+- positions:
+  - -0.6526336789583782
+  - 1.3136344563649405
+  - 0.41835492240921707
+  time_from_start: 15.099999999
+- positions:
+  - -0.6857634083335532
+  - 1.380318655235484
+  - 0.43959192841894396
+  time_from_start: 15.199999999
+- positions:
+  - -0.7138473205804906
+  - 1.436846529886373
+  - 0.45759443626954643
+  time_from_start: 15.299999999
+- positions:
+  - -0.737012010128963
+  - 1.4834728921826559
+  - 0.47244359623651444
+  time_from_start: 15.399999999
+- positions:
+  - -0.7551988240996588
+  - 1.5200796844057245
+  - 0.4841018103202939
+  time_from_start: 15.499999999
+- positions:
+  - -0.7684152831854448
+  - 1.5466820443604494
+  - 0.4925738994778504
+  time_from_start: 15.599999999
+- positions:
+  - -0.7766601081489046
+  - 1.5632773971715115
+  - 0.49785904368519623
+  time_from_start: 15.699999999
+- positions:
+  - -0.7799364734338465
+  - 1.5698721324245393
+  - 0.49995927784220906
+  time_from_start: 15.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 15.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 15.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 16.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 16.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 16.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 16.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 16.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 16.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 16.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 16.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 16.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 16.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 17.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 17.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 17.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 17.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 17.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 17.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 17.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 17.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 17.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 17.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 18.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 18.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 18.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 18.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 18.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 18.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 18.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 18.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 18.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 19.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 19.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 19.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 19.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 19.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 19.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 19.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 19.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 19.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 19.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 20.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 20.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 20.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 20.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 20.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 20.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 20.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 20.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 20.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 20.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 21.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 21.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 21.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 21.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 21.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 21.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 21.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 21.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 21.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 21.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 22.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 22.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 22.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 22.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 22.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 22.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 22.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 22.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 22.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 22.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 23.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 23.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 23.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 23.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 23.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 23.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 23.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 23.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 23.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 23.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 24.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 24.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 24.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 24.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 24.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 24.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 24.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 24.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 24.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 24.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 25.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 25.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 25.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 25.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 25.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 25.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 25.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 25.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 25.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 25.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 26.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 26.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 26.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 26.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 26.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 26.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 26.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 26.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 26.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 26.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 27.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 27.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 27.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 27.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 27.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 27.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 27.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 27.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 27.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 27.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 28.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 28.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 28.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 28.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 28.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 28.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 28.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 28.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 28.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 28.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 29.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 29.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 29.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 29.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 29.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 29.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 29.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 29.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 29.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 29.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 30.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 30.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 30.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 30.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 30.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 30.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 30.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 30.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 30.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 30.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 31.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 31.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 31.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 31.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 31.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 31.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 31.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 31.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 31.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 31.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 32.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 32.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 32.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 32.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 32.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 32.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 32.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 32.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 32.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 32.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 33.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 33.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 33.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 33.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 33.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 33.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 33.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 33.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 33.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 33.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 34.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 34.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 34.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 34.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 34.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 34.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 34.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 34.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 34.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 34.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 35.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 35.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 35.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 35.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 35.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 35.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 35.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 35.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 35.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 35.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 36.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 36.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 36.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 36.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 36.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 36.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 36.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 36.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 36.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 36.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 37.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 37.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 37.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 37.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 37.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 37.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 37.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 37.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 37.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 37.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 38.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 38.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 38.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 38.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 38.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 38.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 38.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 38.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 38.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 38.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 39.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 39.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 39.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 39.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 39.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 39.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 39.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 39.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 39.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 39.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 40.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 40.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 40.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 40.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 40.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 40.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 40.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 40.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 40.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 40.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 41.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 41.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 41.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 41.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 41.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 41.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 41.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 41.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 41.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 41.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 42.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 42.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 42.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 42.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 42.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 42.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 42.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 42.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 42.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 42.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 43.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 43.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 43.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 43.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 43.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 43.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 43.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 43.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 43.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 43.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 44.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 44.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 44.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 44.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 44.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 44.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 44.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 44.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 44.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 44.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 45.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 45.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 45.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 45.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 45.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 45.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 45.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 45.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 45.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 45.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 46.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 46.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 46.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 46.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 46.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 46.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 46.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 46.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 46.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 46.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 47.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 47.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 47.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 47.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 47.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 47.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 47.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 47.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 47.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 47.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 48.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 48.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 48.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 48.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 48.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 48.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 48.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 48.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 48.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 48.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 49.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 49.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 49.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 49.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 49.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 49.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 49.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 49.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 49.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 49.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 50.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 50.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 50.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 50.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 50.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 50.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 50.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 50.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 50.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 50.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 51.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 51.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 51.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 51.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 51.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 51.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 51.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 51.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 51.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 51.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 52.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 52.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 52.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 52.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 52.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 52.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 52.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 52.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 52.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 52.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 53.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 53.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 53.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 53.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 53.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 53.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 53.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 53.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 53.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 53.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 54.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 54.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 54.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 54.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 54.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 54.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 54.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 54.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 54.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 54.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 55.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 55.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 55.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 55.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 55.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 55.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 55.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 55.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 55.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 55.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 56.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 56.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 56.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 56.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 56.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 56.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 56.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 56.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 56.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 56.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 57.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 57.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 57.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 57.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 57.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 57.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 57.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 57.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 57.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 57.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 58.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 58.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 58.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 58.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 58.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 58.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 58.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 58.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 58.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 58.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 59.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 59.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 59.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 59.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 59.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 59.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 59.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 59.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 59.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 59.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 60.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 60.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 60.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 60.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 60.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 60.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 60.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 60.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 60.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 60.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 61.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 61.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 61.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 61.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 61.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 61.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 61.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 61.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 61.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 61.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 62.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 62.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 62.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 62.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 62.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 62.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 62.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 62.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 62.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 62.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 63.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 63.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 63.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 63.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 63.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 63.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 63.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 63.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 63.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 63.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 64.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 64.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 64.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 64.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 64.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 64.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 64.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 64.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 64.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 64.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 65.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 65.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 65.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 65.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 65.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 65.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 65.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 65.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 65.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 65.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 66.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 66.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 66.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 66.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 66.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 66.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 66.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 66.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 66.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 66.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 67.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 67.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 67.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 67.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 67.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 67.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 67.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 67.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 67.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 67.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 68.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 68.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 68.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 68.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 68.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 68.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 68.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 68.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 68.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 68.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 69.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 69.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 69.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 69.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 69.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 69.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 69.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 69.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 69.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 69.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 70.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 70.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 70.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 70.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 70.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 70.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 70.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 70.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 70.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 70.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 71.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 71.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 71.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 71.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 71.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 71.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 71.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 71.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 71.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 71.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 72.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 72.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 72.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 72.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 72.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 72.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 72.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 72.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 72.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 72.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 73.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 73.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 73.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 73.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 73.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 73.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 73.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 73.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 73.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 73.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 74.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 74.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 74.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 74.3
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 74.4
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 74.5
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 74.6
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 74.7
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 74.8
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 74.9
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 75.0
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 75.1
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 75.2
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 75.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 75.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 75.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 75.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 75.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 75.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 75.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 75.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 76.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 76.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 76.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 76.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 76.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 76.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 76.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 76.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 76.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 76.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 77.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 77.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 77.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 77.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 77.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 77.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 77.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 77.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 77.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 77.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 78.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 78.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 78.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 78.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 78.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 78.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 78.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 78.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 78.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 78.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 79.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 79.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 79.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 79.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 79.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 79.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 79.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 79.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 79.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 79.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 80.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 80.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 80.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 80.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 80.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 80.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 80.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 80.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 80.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 80.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 81.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 81.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 81.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 81.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 81.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 81.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 81.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 81.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 81.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 81.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 82.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 82.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 82.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 82.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 82.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 82.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 82.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 82.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 82.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 82.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 83.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 83.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 83.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 83.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 83.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 83.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 83.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 83.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 83.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 83.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 84.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 84.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 84.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 84.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 84.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 84.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 84.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 84.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 84.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 84.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 85.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 85.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 85.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 85.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 85.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 85.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 85.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 85.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 85.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 85.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 86.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 86.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 86.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 86.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 86.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 86.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 86.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 86.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 86.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 86.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 87.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 87.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 87.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 87.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 87.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 87.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 87.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 87.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 87.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 87.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 88.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 88.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 88.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 88.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 88.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 88.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 88.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 88.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 88.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 88.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 89.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 89.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 89.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 89.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 89.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 89.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 89.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 89.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 89.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 89.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 90.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 90.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 90.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 90.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 90.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 90.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 90.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 90.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 90.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 90.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 91.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 91.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 91.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 91.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 91.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 91.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 91.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 91.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 91.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 91.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 92.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 92.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 92.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 92.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 92.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 92.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 92.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 92.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 92.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 92.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 93.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 93.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 93.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 93.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 93.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 93.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 93.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 93.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 93.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 93.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 94.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 94.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 94.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 94.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 94.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 94.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 94.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 94.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 94.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 94.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 95.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 95.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 95.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 95.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 95.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 95.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 95.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 95.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 95.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 95.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 96.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 96.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 96.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 96.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 96.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 96.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 96.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 96.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 96.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 96.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 97.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 97.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 97.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 97.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 97.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 97.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 97.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 97.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 97.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 97.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 98.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 98.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 98.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 98.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 98.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 98.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 98.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 98.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 98.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 98.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 99.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 99.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 99.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 99.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 99.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 99.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 99.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 99.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 99.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 99.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 100.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 100.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 100.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 100.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 100.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 100.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 100.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 100.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 100.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 100.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 101.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 101.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 101.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 101.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 101.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 101.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 101.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 101.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 101.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 101.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 102.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 102.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 102.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 102.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 102.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 102.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 102.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 102.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 102.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 102.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 103.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 103.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 103.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 103.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 103.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 103.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 103.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 103.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 103.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 103.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 104.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 104.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 104.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 104.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 104.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 104.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 104.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 104.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 104.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 104.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 105.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 105.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 105.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 105.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 105.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 105.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 105.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 105.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 105.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 105.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 106.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 106.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 106.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 106.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 106.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 106.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 106.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 106.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 106.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 106.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 107.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 107.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 107.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 107.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 107.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 107.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 107.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 107.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 107.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 107.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 108.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 108.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 108.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 108.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 108.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 108.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 108.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 108.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 108.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 108.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 109.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 109.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 109.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 109.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 109.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 109.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 109.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 109.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 109.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 109.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 110.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 110.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 110.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 110.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 110.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 110.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 110.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 110.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 110.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 110.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 111.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 111.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 111.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 111.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 111.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 111.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 111.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 111.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 111.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 111.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 112.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 112.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 112.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 112.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 112.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 112.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 112.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 112.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 112.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 112.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 113.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 113.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 113.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 113.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 113.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 113.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 113.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 113.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 113.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 113.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 114.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 114.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 114.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 114.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 114.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 114.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 114.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 114.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 114.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 114.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 115.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 115.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 115.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 115.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 115.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 115.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 115.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 115.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 115.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 115.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 116.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 116.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 116.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 116.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 116.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 116.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 116.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 116.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 116.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 116.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 117.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 117.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 117.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 117.399999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 117.499999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 117.599999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 117.699999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 117.799999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 117.899999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 117.999999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 118.099999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 118.199999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 118.299999999
+- positions:
+  - -0.78
+  - 1.57
+  - 0.5
+  time_from_start: 118.399999999

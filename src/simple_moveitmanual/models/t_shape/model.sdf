@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<sdf version="1.7">
+  <model name="t_shape">
+    <static>false</static>
+    <pose>0 0 0 0 0 0</pose>
+
+    <link name="body">
+      <pose>0 0 0.03 0 0 0</pose>
+      <inertial>
+        <mass>1.2</mass>
+        <inertia>
+          <ixx>0.0028</ixx>
+          <ixy>0.0</ixy>
+          <ixz>0.0</ixz>
+          <iyy>0.0052</iyy>
+          <iyz>0.0</iyz>
+          <izz>0.0061</izz>
+        </inertia>
+      </inertial>
+
+      <collision name="stem_collision">
+        <pose>0 0 0.14 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.06 0.18 0.28</size>
+          </box>
+        </geometry>
+        <surface>
+          <friction>
+            <ode>
+              <mu>0.75</mu>
+              <mu2>0.75</mu2>
+            </ode>
+          </friction>
+          <bounce>
+            <restitution_coefficient>0.02</restitution_coefficient>
+          </bounce>
+        </surface>
+      </collision>
+
+      <collision name="topbar_collision">
+        <pose>0 0 0.29 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.24 0.06 0.06</size>
+          </box>
+        </geometry>
+        <surface>
+          <friction>
+            <ode>
+              <mu>0.75</mu>
+              <mu2>0.75</mu2>
+            </ode>
+          </friction>
+          <bounce>
+            <restitution_coefficient>0.02</restitution_coefficient>
+          </bounce>
+        </surface>
+      </collision>
+
+      <visual name="stem_visual">
+        <pose>0 0 0.14 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.06 0.18 0.28</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0.83 0.42 0.14 1.0</ambient>
+          <diffuse>0.83 0.42 0.14 1.0</diffuse>
+        </material>
+      </visual>
+
+      <visual name="topbar_visual">
+        <pose>0 0 0.29 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.24 0.06 0.06</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0.83 0.42 0.14 1.0</ambient>
+          <diffuse>0.83 0.42 0.14 1.0</diffuse>
+        </material>
+      </visual>
+    </link>
+  </model>
+</sdf>

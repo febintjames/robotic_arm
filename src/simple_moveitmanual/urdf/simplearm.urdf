@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<robot name="simplearm">
+
+  <!-- ================= MATERIALS ================= -->
+  <material name="red">
+    <color rgba="1 0 0 1"/>
+  </material>
+
+  <material name="blue">
+    <color rgba="0 0 1 1"/>
+  </material>
+
+  <!-- ================= BASE LINK ================= -->
+  <link name="base_link">
+    <visual>
+      <origin xyz="0 0 0.75" rpy="0 0 0"/>
+      <geometry>
+        <cylinder radius="0.2" length="1.5"/>
+      </geometry>
+      <material name="red"/>
+    </visual>
+    <collision>
+      <origin xyz="0 0 0.75" rpy="0 0 0"/>
+      <geometry>
+        <cylinder radius="0.2" length="1.5"/>
+      </geometry>
+    </collision>
+    <inertial>
+      <mass value="10"/>
+      <origin xyz="0 0 0.75"/>
+      <inertia ixx="2" ixy="0" ixz="0"
+               iyy="2" iyz="0"
+               izz="1"/>
+    </inertial>
+  </link>
+
+  <!-- ================= LINK 1 ================= -->
+  <link name="link1">
+    <visual>
+      <origin xyz="0 0 0.6" rpy="0 0 0"/>
+      <geometry>
+        <cylinder radius="0.15" length="1.2"/>
+      </geometry>
+      <material name="blue"/>
+    </visual>
+    <collision>
+      <origin xyz="0 0 0.6" rpy="0 0 0"/>
+      <geometry>
+        <cylinder radius="0.15" length="1.2"/>
+      </geometry>
+    </collision>
+    <inertial>
+      <mass value="5"/>
+      <origin xyz="0 0 0.6"/>
+      <inertia ixx="0.6" ixy="0" ixz="0"
+               iyy="0.6" iyz="0"
+               izz="0.3"/>
+    </inertial>
+  </link>
+
+  <!-- ================= LINK 2 ================= -->
+  <link name="link2">
+    <visual>
+      <origin xyz="0 0 0.6" rpy="0 0 0"/>
+      <geometry>
+        <cylinder radius="0.12" length="1.2"/>
+      </geometry>
+      <material name="blue"/>
+    </visual>
+    <collision>
+      <origin xyz="0 0 0.6" rpy="0 0 0"/>
+      <geometry>
+        <cylinder radius="0.12" length="1.2"/>
+      </geometry>
+    </collision>
+    <inertial>
+      <mass value="3"/>
+      <origin xyz="0 0 0.6"/>
+      <inertia ixx="0.3" ixy="0" ixz="0"
+               iyy="0.3" iyz="0"
+               izz="0.15"/>
+    </inertial>
+  </link>
+
+  <!-- ================= LINK 3 ================= -->
+  <link name="link3">
+    <visual>
+      <origin xyz="0 0 0.5" rpy="0 0 0"/>
+      <geometry>
+        <cylinder radius="0.1" length="1.0"/>
+      </geometry>
+      <material name="blue"/>
+    </visual>
+    <collision>
+      <origin xyz="0 0 0.5" rpy="0 0 0"/>
+      <geometry>
+        <cylinder radius="0.1" length="1.0"/>
+      </geometry>
+    </collision>
+    <inertial>
+      <mass value="2"/>
+      <origin xyz="0 0 0.5"/>
+      <inertia ixx="0.15" ixy="0" ixz="0"
+               iyy="0.15" iyz="0"
+               izz="0.07"/>
+    </inertial>
+  </link>
+
+  <!-- ================= TCP ================= -->
+  <link name="tcp"/>
+
+  <!-- ================= JOINTS ================= -->
+
+  <!-- Joint 1 (Base Rotation - Z axis) -->
+  <joint name="joint1" type="revolute">
+    <parent link="base_link"/>
+    <child link="link1"/>
+    <origin xyz="0 0 1.2" rpy="0 0 0"/>
+    <axis xyz="0 0 1"/>
+    <limit lower="-3.14" upper="3.14"
+           effort="100" velocity="1.0"/>
+  </joint>
+
+  <!-- Joint 2 (Shoulder - Y axis) -->
+  <joint name="joint2" type="revolute">
+    <parent link="link1"/>
+    <child link="link2"/>
+    <origin xyz="0 0 1.2" rpy="0 0 0"/>
+    <axis xyz="0 1 0"/>
+    <limit lower="-3.14" upper="3.14"
+           effort="100" velocity="1.0"/>
+  </joint>
+
+  <!-- Joint 3 (Elbow - Y axis) -->
+  <joint name="joint3" type="revolute">
+    <parent link="link2"/>
+    <child link="link3"/>
+    <origin xyz="0 0 1.2" rpy="0 0 0"/>
+    <axis xyz="0 1 0"/>
+    <limit lower="-3.14" upper="3.14"
+           effort="100" velocity="1.0"/>
+  </joint>
+
+  <!-- Fixed TCP -->
+  <joint name="ee_fixed" type="fixed">
+    <parent link="link3"/>
+    <child link="tcp"/>
+    <origin xyz="0 0 1.0" rpy="0 0 0"/>
+  </joint>
+
+  <!-- ================= ros2_control ================= -->
+
+  <!-- ================= ros2_control ================= -->
+
+<ros2_control name="SimpleArmSystem" type="system">
+  <hardware>
+    <plugin>fake_components/GenericSystem</plugin>
+  </hardware>
+
+  <!-- Joint 1 -->
+  <joint name="joint1">
+    <command_interface name="position"/>
+    <state_interface name="position"/>
+    <state_interface name="velocity"/>
+  </joint>
+
+  <!-- Joint 2 -->
+  <joint name="joint2">
+    <command_interface name="position"/>
+    <state_interface name="position"/>
+    <state_interface name="velocity"/>
+  </joint>
+
+  <!-- Joint 3 -->
+  <joint name="joint3">
+    <command_interface name="position"/>
+    <state_interface name="position"/>
+    <state_interface name="velocity"/>
+  </joint>
+</ros2_control>
+
+
+</robot>

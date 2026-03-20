@@ -1,0 +1,12 @@
+build/
+install/
+log/
+.ros_logs/
+*.webm
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.DS_Store

@@ -1,0 +1,23 @@
+joint_names:
+  - joint1
+  - joint2
+  - joint3
+points:
+  - positions: [0.0, -0.45, 0.95]
+    time_from_start: 0.0
+  - positions: [0.05, -0.55, 1.05]
+    time_from_start: 0.7
+  - positions: [0.08, -0.60, 1.10]
+    time_from_start: 1.4
+  - positions: [0.10, -0.63, 1.14]
+    time_from_start: 2.0
+  - positions: [0.10, -0.63, 1.14]
+    time_from_start: 2.6
+  - positions: [0.12, -0.62, 1.10]
+    time_from_start: 3.2
+  - positions: [0.14, -0.58, 1.03]
+    time_from_start: 3.9
+  - positions: [0.15, -0.52, 0.97]
+    time_from_start: 4.6
+  - positions: [0.12, -0.44, 0.92]
+    time_from_start: 5.2
