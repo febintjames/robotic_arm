@@ -1,6 +1,8 @@
 # gesture_manager_node.py
 
 import rclpy
+from rclpy.callback_groups import ReentrantCallbackGroup
+from rclpy.executors import MultiThreadedExecutor
 from rclpy.node import Node
 
 from gesture_interface.gesture_recorder import GestureRecorder
@@ -16,6 +18,7 @@ class GestureManager(Node):
         super().__init__("gesture_manager")
 
         self.get_logger().info("Gesture Manager started")
+        self.callback_group = ReentrantCallbackGroup()
 
         # Initialize subsystems
         self.storage = GestureStorage(self)
@@ -25,9 +28,24 @@ class GestureManager(Node):
         self.recording_active = False
 
         # Services
-        self.create_service(StartRecording, "/start_recording", self.start_recording_callback)
-        self.create_service(StopSaveRecording, "/stop_save_recording", self.stop_save_callback)
-        self.create_service(PlayGesture, "/play_gesture", self.play_callback)
+        self.create_service(
+            StartRecording,
+            "/start_recording",
+            self.start_recording_callback,
+            callback_group=self.callback_group,
+        )
+        self.create_service(
+            StopSaveRecording,
+            "/stop_save_recording",
+            self.stop_save_callback,
+            callback_group=self.callback_group,
+        )
+        self.create_service(
+            PlayGesture,
+            "/play_gesture",
+            self.play_callback,
+            callback_group=self.callback_group,
+        )
 
     # -----------------------------
     # Start Recording Service
@@ -93,7 +111,10 @@ class GestureManager(Node):
 def main(args=None):
     rclpy.init(args=args)
     node = GestureManager()
-    rclpy.spin(node)
+    executor = MultiThreadedExecutor()
+    executor.add_node(node)
+    executor.spin()
+    executor.shutdown()
     node.destroy_node()
     rclpy.shutdown()
 

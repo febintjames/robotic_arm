@@ -1,2 +1,5 @@
 task_mappings:
-  align_t: align_t_task
+  align_t:
+    - my_new_push_2
+    - push_t
+    - push_final

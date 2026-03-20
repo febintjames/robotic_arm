@@ -1,0 +1,6450 @@
+joint_names:
+- joint1
+- joint2
+- joint3
+points:
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 0.0
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 0.1
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 0.2
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 0.30000000000000004
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 0.4
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 0.5
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 0.6000000000000001
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 0.7000000000000001
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 0.7999999990000001
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 0.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 0.999999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 1.099999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 1.199999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 1.3
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 1.4
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 1.5
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 1.6
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 1.7000000000000002
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 1.8
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 1.9
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 2.0
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 2.1
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 2.2
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 2.3
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 2.4
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 2.5
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 2.6
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 2.7
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 2.8
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 2.9
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 3.0
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 3.1
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 3.2
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 3.3
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 3.4
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 3.5
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 3.6
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 3.7
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 3.8
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 3.9
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 4.0
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 4.1
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 4.2
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 4.3
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 4.4
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 4.5
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 4.599999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 4.699999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 4.799999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 4.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 4.999999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 5.099999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 5.199999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 5.299999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 5.399999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 5.499999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 5.599999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 5.699999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 5.799999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 5.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 5.999999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 6.099999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 6.199999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 6.299999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 6.399999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 6.499999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 6.599999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 6.699999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 6.799999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 6.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 6.999999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 7.099999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 7.199999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 7.299999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 7.399999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 7.499999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 7.599999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 7.699999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 7.799999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 7.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 7.999999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 8.099999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 8.199999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 8.299999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 8.399999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 8.499999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 8.599999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 8.699999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 8.799999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 8.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 8.999999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 9.099999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 9.199999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 9.299999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 9.399999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 9.499999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 9.599999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 9.699999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 9.799999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 9.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 9.999999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 10.099999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 10.199999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 10.299999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 10.399999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 10.499999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 10.599999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 10.699999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 10.799999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 10.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 10.999999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 11.099999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 11.199999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 11.299999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 11.399999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 11.499999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 11.599999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 11.699999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 11.799999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 11.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 11.999999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 12.099999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 12.199999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 12.299999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 12.399999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 12.499999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 12.599999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 12.699999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 12.799999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 12.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 12.999999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 13.099999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 13.199999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 13.299999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 13.399999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 13.499999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 13.599999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 13.699999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 13.799999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 13.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 13.999999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 14.099999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 14.199999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 14.299999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 14.399999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 14.499999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 14.599999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 14.699999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 14.799999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 14.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 14.999999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 15.099999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 15.199999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 15.299999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 15.399999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 15.499999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 15.599999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 15.699999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 15.799999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 15.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 15.999999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 16.099999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 16.199999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 16.299999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 16.399999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 16.499999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 16.599999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 16.699999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 16.799999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 16.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 16.999999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 17.099999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 17.199999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 17.299999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 17.399999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 17.499999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 17.599999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 17.699999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 17.799999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 17.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 17.999999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 18.099999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 18.199999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 18.299999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 18.399999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 18.499999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 18.599999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 18.699999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 18.799999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 18.899999999
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 19.0
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 19.1
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 19.2
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 19.3
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 19.4
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 19.5
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 19.6
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 19.7
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 19.8
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 19.9
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 20.0
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 20.1
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 20.2
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 20.3
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 20.4
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 20.5
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 20.6
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 20.7
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 20.8
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 20.9
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 21.0
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 21.1
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 21.2
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 21.3
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 21.4
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 21.5
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 21.6
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 21.7
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 21.8
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 21.9
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 22.0
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 22.1
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 22.2
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 22.3
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 22.4
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 22.5
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 22.6
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 22.7
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 22.8
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 22.9
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 23.0
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 23.1
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 23.2
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 23.3
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 23.4
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 23.5
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 23.6
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 23.7
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 23.8
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 23.9
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 24.0
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 24.1
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 24.2
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 24.3
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 24.4
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 24.5
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 24.6
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 24.7
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 24.8
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 24.9
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 25.0
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 25.1
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 25.2
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 25.3
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 25.4
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 25.5
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 25.6
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 25.7
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 25.8
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 25.9
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 26.0
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 26.1
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 26.2
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 26.3
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 26.4
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 26.5
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 26.6
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 26.7
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 26.8
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 26.9
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 27.0
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 27.1
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 27.2
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 27.3
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 27.4
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 27.5
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 27.6
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 27.7
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 27.8
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 27.9
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 28.0
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 28.1
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 28.2
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 28.3
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 28.4
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 28.5
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 28.6
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 28.7
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 28.8
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 28.9
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 29.0
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 29.1
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 29.2
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 29.3
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 29.4
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 29.5
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 29.6
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 29.7
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 29.8
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 29.9
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 30.0
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 30.1
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 30.2
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 30.3
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 30.4
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 30.5
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 30.6
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 30.7
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 30.8
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 30.9
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 31.0
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 31.1
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 31.2
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 31.3
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 31.4
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 31.5
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 31.6
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 31.7
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 31.8
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 31.9
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 32.0
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 32.1
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 32.2
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 32.3
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 32.4
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 32.5
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 32.6
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 32.7
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 32.8
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 32.9
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 33.0
+- positions:
+  - 0.0
+  - 0.0
+  - 0.0
+  time_from_start: 33.1
+- positions:
+  - 8.982530275147838e-09
+  - 0.0050000234240403785
+  - 0.0015231998555362836
+  time_from_start: 33.2
+- positions:
+  - 3.593012021241293e-08
+  - 0.02000012961115072
+  - 0.006092799428214057
+  time_from_start: 33.3
+- positions:
+  - 8.084276892361686e-08
+  - 0.04500030650004927
+  - 0.013708798714546333
+  time_from_start: 33.4
+- positions:
+  - 1.4372047907329488e-07
+  - 0.08000055375592208
+  - 0.02437119770566376
+  time_from_start: 33.5
+- positions:
+  - 2.3363560419653595e-07
+  - 0.13005093971854986
+  - 0.03961830769883701
+  time_from_start: 33.6
+- positions:
+  - 3.342399139683039e-07
+  - 0.18605139216009992
+  - 0.05667787213499853
+  time_from_start: 33.7
+- positions:
+  - 4.5280927363222645e-07
+  - 0.25205192121529585
+  - 0.07678377033437389
+  time_from_start: 33.8
+- positions:
+  - 5.893436787474116e-07
+  - 0.32805252249917327
+  - 0.0999359869496077
+  time_from_start: 33.9
+- positions:
+  - 7.438431319783945e-07
+  - 0.4140531934178897
+  - 0.12613450147243999
+  time_from_start: 34.0
+- positions:
+  - 9.16307635101532e-07
+  - 0.5100539300577998
+  - 0.1553792873409856
+  time_from_start: 34.1
+- positions:
+  - 1.1067372032158573e-06
+  - 0.6160547299745165
+  - 0.18767031423448977
+  time_from_start: 34.2
+- positions:
+  - 1.3151318372095488e-06
+  - 0.7320555828126993
+  - 0.22300754860546057
+  time_from_start: 34.3
+- positions:
+  - 1.5414915051081834e-06
+  - 0.8580564652057108
+  - 0.26139095783475597
+  time_from_start: 34.4
+- positions:
+  - 1.7858161891481927e-06
+  - 0.9940573491043514
+  - 0.3028205208191874
+  time_from_start: 34.5
+- positions:
+  - 2.0481141742578757e-06
+  - 1.1400628018259162
+  - 0.34729763911538925
+  time_from_start: 34.6
+- positions:
+  - 2.3249593148477743e-06
+  - 1.294165627422327
+  - 0.3942413745260138
+  time_from_start: 34.7
+- positions:
+  - 2.5895800925823664e-06
+  - 1.4414637173756448
+  - 0.43911223225904106
+  time_from_start: 34.8
+- positions:
+  - 2.8362358168720903e-06
+  - 1.5787616001586064
+  - 0.4809368561182126
+  time_from_start: 34.9
+- positions:
+  - 3.0649264806115184e-06
+  - 1.7060592947452955
+  - 0.5197152915124734
+  time_from_start: 35.0
+- positions:
+  - 3.27565207314251e-06
+  - 1.823356826979861
+  - 0.5554475596741204
+  time_from_start: 35.1
+- positions:
+  - 3.468412599794135e-06
+  - 1.930654226736392
+  - 0.5881336616994268
+  time_from_start: 35.2
+- positions:
+  - 3.6432080650072862e-06
+  - 2.027951525357441
+  - 0.6177735836149525
+  time_from_start: 35.3
+- positions:
+  - 3.800038472334677e-06
+  - 2.115248753597335
+  - 0.6443673014017444
+  time_from_start: 35.4
+- positions:
+  - 3.938903820888129e-06
+  - 2.192545940135041
+  - 0.6679147854046787
+  time_from_start: 35.5
+- positions:
+  - 4.059804113332177e-06
+  - 2.2598431106220858
+  - 0.6884160038950329
+  time_from_start: 35.6
+- positions:
+  - 4.162739344337751e-06
+  - 2.3171402871753433
+  - 0.7058709257649936
+  time_from_start: 35.7
+- positions:
+  - 4.24770951479303e-06
+  - 2.364437488203798
+  - 0.7202795224480676
+  time_from_start: 35.8
+- positions:
+  - 4.31471462647437e-06
+  - 2.4017347284590773
+  - 0.7316417692102197
+  time_from_start: 35.9
+- positions:
+  - 4.3637546793817705e-06
+  - 2.429032019211949
+  - 0.7399576459655224
+  time_from_start: 36.0
+- positions:
+  - 4.394829671738876e-06
+  - 2.44632936847532
+  - 0.7452271377567259
+  time_from_start: 36.1
+- positions:
+  - 4.407939603545685e-06
+  - 2.4536267812133534
+  - 0.7474502350156618
+  time_from_start: 36.2
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380339
+  time_from_start: 36.3
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380366
+  time_from_start: 36.4
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 36.5
+- positions:
+  - 4.408413730061511e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 36.6
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 36.7
+- positions:
+  - 4.408413729173333e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 36.8
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 36.9
+- positions:
+  - 4.408413729173333e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 37.0
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 37.1
+- positions:
+  - 4.408413729173333e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 37.2
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380366
+  time_from_start: 37.3
+- positions:
+  - 4.408413729173333e-06
+  - 2.4538906957181954
+  - 0.7475306344380366
+  time_from_start: 37.4
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 37.5
+- positions:
+  - 4.408413729173333e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 37.6
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380339
+  time_from_start: 37.7
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380357
+  time_from_start: 37.8
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 37.9
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380366
+  time_from_start: 38.0
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 38.1
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 38.2
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 38.3
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 38.4
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380366
+  time_from_start: 38.5
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380339
+  time_from_start: 38.6
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380366
+  time_from_start: 38.7
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 38.8
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 38.9
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 39.0
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 39.1
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 39.2
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 39.3
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 39.4
+- positions:
+  - 4.408413730061511e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 39.5
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380366
+  time_from_start: 39.6
+- positions:
+  - 4.408413729173333e-06
+  - 2.4538906957181954
+  - 0.7475306344380366
+  time_from_start: 39.7
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 39.8
+- positions:
+  - 4.408413729173333e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 39.9
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380339
+  time_from_start: 40.0
+- positions:
+  - 4.408413729173333e-06
+  - 2.453890695718197
+  - 0.7475306344380357
+  time_from_start: 40.1
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 40.2
+- positions:
+  - 4.408413729173333e-06
+  - 2.4538906957181954
+  - 0.7475306344380366
+  time_from_start: 40.3
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 40.4
+- positions:
+  - 4.408413729173333e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 40.5
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 40.6
+- positions:
+  - 4.408413730061511e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 40.7
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380366
+  time_from_start: 40.8
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380339
+  time_from_start: 40.9
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380366
+  time_from_start: 41.0
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 41.1
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 41.2
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 41.3
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 41.4
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 41.5
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 41.6
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 41.7
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 41.8
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380366
+  time_from_start: 41.9
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380366
+  time_from_start: 42.0
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 42.1
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 42.2
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 42.3
+- positions:
+  - 4.408413729173333e-06
+  - 2.4538906957181954
+  - 0.7475306344380366
+  time_from_start: 42.4
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380339
+  time_from_start: 42.5
+- positions:
+  - 4.408413729173333e-06
+  - 2.453890695718197
+  - 0.7475306344380366
+  time_from_start: 42.6
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 42.7
+- positions:
+  - 4.408413729173333e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 42.8
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 42.9
+- positions:
+  - 4.408413729173333e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 43.0
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 43.1
+- positions:
+  - 4.408413729173333e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 43.2
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 43.3
+- positions:
+  - 4.408413730061511e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 43.4
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380366
+  time_from_start: 43.5
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380366
+  time_from_start: 43.6
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 43.7
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 43.8
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380339
+  time_from_start: 43.9
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380357
+  time_from_start: 44.0
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 44.1
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380366
+  time_from_start: 44.2
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 44.3
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 44.4
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 44.5
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 44.6
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380366
+  time_from_start: 44.7
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380339
+  time_from_start: 44.8
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380366
+  time_from_start: 44.9
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 45.0
+- positions:
+  - 4.408413730061511e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 45.1
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 45.2
+- positions:
+  - 4.408413729173333e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 45.3
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 45.4
+- positions:
+  - 4.408413729173333e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 45.5
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 45.6
+- positions:
+  - 4.408413729173333e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 45.7
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380366
+  time_from_start: 45.8
+- positions:
+  - 4.408413729173333e-06
+  - 2.4538906957181954
+  - 0.7475306344380366
+  time_from_start: 45.9
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 46.0
+- positions:
+  - 4.408413729173333e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 46.1
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380339
+  time_from_start: 46.2
+- positions:
+  - 4.408413730061511e-06
+  - 2.453890695718197
+  - 0.7475306344380357
+  time_from_start: 46.3
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 46.4
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380366
+  time_from_start: 46.5
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 46.6
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 46.7
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 46.8
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 46.9
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380366
+  time_from_start: 47.0
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380339
+  time_from_start: 47.1
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380366
+  time_from_start: 47.2
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 47.3
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 47.4
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 47.5
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 47.6
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 47.7
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 47.8
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 47.9
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 48.0
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380366
+  time_from_start: 48.1
+- positions:
+  - 4.408413729173333e-06
+  - 2.4538906957181954
+  - 0.7475306344380366
+  time_from_start: 48.2
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 48.3
+- positions:
+  - 4.408413729173333e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 48.4
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380339
+  time_from_start: 48.5
+- positions:
+  - 4.408413729173333e-06
+  - 2.453890695718197
+  - 0.7475306344380357
+  time_from_start: 48.6
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 48.7
+- positions:
+  - 4.408413729173333e-06
+  - 2.4538906957181954
+  - 0.7475306344380366
+  time_from_start: 48.8
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 48.9
+- positions:
+  - 4.408413729173333e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 49.0
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 49.1
+- positions:
+  - 4.408413730061511e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 49.2
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380366
+  time_from_start: 49.3
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380339
+  time_from_start: 49.4
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380366
+  time_from_start: 49.5
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 49.6
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 49.7
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 49.8
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 49.9
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 50.0
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 50.1
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 50.2
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 50.3
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380366
+  time_from_start: 50.4
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 50.5
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 50.6
+- positions:
+  - 4.408413730061511e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 50.7
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 50.8
+- positions:
+  - 4.408413729173333e-06
+  - 2.4538906957181954
+  - 0.7475306344380366
+  time_from_start: 50.9
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380339
+  time_from_start: 51.0
+- positions:
+  - 4.408413729173333e-06
+  - 2.453890695718197
+  - 0.7475306344380366
+  time_from_start: 51.1
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 51.2
+- positions:
+  - 4.408413729173333e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 51.3
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 51.4
+- positions:
+  - 4.408413729173333e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 51.5
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 51.6
+- positions:
+  - 4.408413729173333e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 51.7
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 51.8
+- positions:
+  - 4.408413730061511e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 51.9
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380366
+  time_from_start: 52.0
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380366
+  time_from_start: 52.1
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 52.2
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 52.3
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380339
+  time_from_start: 52.4
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380357
+  time_from_start: 52.5
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 52.6
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380366
+  time_from_start: 52.7
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 52.8
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 52.9
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 53.0
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 53.1
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380366
+  time_from_start: 53.2
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380339
+  time_from_start: 53.3
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380366
+  time_from_start: 53.4
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 53.5
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 53.6
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 53.7
+- positions:
+  - 4.408413729173333e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 53.8
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 53.9
+- positions:
+  - 4.408413729173333e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 54.0
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 54.1
+- positions:
+  - 4.408413729173333e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 54.2
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380366
+  time_from_start: 54.3
+- positions:
+  - 4.408413729173333e-06
+  - 2.4538906957181954
+  - 0.7475306344380366
+  time_from_start: 54.4
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 54.5
+- positions:
+  - 4.408413729173333e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 54.6
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380339
+  time_from_start: 54.7
+- positions:
+  - 4.408413730061511e-06
+  - 2.453890695718197
+  - 0.7475306344380357
+  time_from_start: 54.8
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 54.9
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380366
+  time_from_start: 55.0
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 55.1
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 55.2
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 55.3
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 55.4
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380366
+  time_from_start: 55.5
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380339
+  time_from_start: 55.6
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380366
+  time_from_start: 55.7
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 55.8
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 55.9
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 56.0
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 56.1
+- positions:
+  - 4.40841373094969e-06
+  - 2.4538906957181954
+  - 0.7475306344380348
+  time_from_start: 56.2
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 56.3
+- positions:
+  - 4.40841373094969e-06
+  - 2.453890695718197
+  - 0.7475306344380348
+  time_from_start: 56.4
+- positions:
+  - 4.190894230760023e-06
+  - 2.4555841666438134
+  - 0.7478869258863226
+  time_from_start: 56.5
+- positions:
+  - 2.7558439255059852e-06
+  - 2.4666992947071975
+  - 0.7503688608817916
+  time_from_start: 56.6
+- positions:
+  - -0.0008912780863230552
+  - 2.4849806048793326
+  - 0.7611973255811195
+  time_from_start: 56.7
+- positions:
+  - -4.790794157827349e-06
+  - 2.5184285574909886
+  - 0.7619202145357882
+  time_from_start: 56.8
+- positions:
+  - -7.726266276542049e-06
+  - 2.5558458108298705
+  - 0.7702759328258271
+  time_from_start: 56.9
+- positions:
+  - -1.2338003670286923e-05
+  - 2.5844321926484426
+  - 0.7766579970413456
+  time_from_start: 57.0
+- positions:
+  - -1.474387692113055e-05
+  - 2.603018299191069
+  - 0.7808082054154069
+  time_from_start: 57.1
+- positions:
+  - -1.595256781872223e-05
+  - 2.6116044856671454
+  - 0.7827254699189554
+  time_from_start: 57.2
+- positions:
+  - -1.6035624508248247e-05
+  - 2.6122472701356223
+  - 0.7828703642750803
+  time_from_start: 57.3
+- positions:
+  - -1.6035590353347118e-05
+  - 2.6122475409062424
+  - 0.7828690621823373
+  time_from_start: 57.4
+- positions:
+  - -1.6035602917519043e-05
+  - 2.612247540925118
+  - 0.7828690621851129
+  time_from_start: 57.5
+- positions:
+  - -1.5425174795247187e-05
+  - 2.6122460137622667
+  - 0.7828764050080439
+  time_from_start: 57.6
+- positions:
+  - -1.603559034091262e-05
+  - 2.6122475409044945
+  - 0.7828690621831411
+  time_from_start: 57.7
+- positions:
+  - -1.603560240681645e-05
+  - 2.6122475409212402
+  - 0.7828690621866246
+  time_from_start: 57.8
+- positions:
+  - -1.5432584389962756e-05
+  - 2.6122460424665803
+  - 0.7828762681570236
+  time_from_start: 57.9
+- positions:
+  - -1.603560132856785e-05
+  - 2.6122475409139234
+  - 0.7828690621847247
+  time_from_start: 58.0
+- positions:
+  - -1.603558258445048e-05
+  - 2.612247540917128
+  - 0.7828690621828054
+  time_from_start: 58.1
+- positions:
+  - -1.6463341071748516e-05
+  - 2.612246365319697
+  - 0.782874759166658
+  time_from_start: 58.2
+- positions:
+  - -1.603559092533402e-05
+  - 2.6122475409086405
+  - 0.7828690621842282
+  time_from_start: 58.3
+- positions:
+  - -1.6177046592957822e-05
+  - 2.6122469843453118
+  - 0.782871759901667
+  time_from_start: 58.4
+- positions:
+  - -1.6035590287621915e-05
+  - 2.612247540903388
+  - 0.7828690621806196
+  time_from_start: 58.5
+- positions:
+  - -1.6035590882701456e-05
+  - 2.6122475409061785
+  - 0.7828690621852914
+  time_from_start: 58.6
+- positions:
+  - -1.6152454626272572e-05
+  - 2.612247032258175
+  - 0.7828715281078606
+  time_from_start: 58.7
+- positions:
+  - -1.603559084717432e-05
+  - 2.612247540903521
+  - 0.7828690621821188
+  time_from_start: 58.8
+- positions:
+  - -1.6126438897146045e-05
+  - 2.6122471174277475
+  - 0.7828711154059587
+  time_from_start: 58.9
+- positions:
+  - -1.6035590285845558e-05
+  - 2.6122475409033097
+  - 0.7828690621806027
+  time_from_start: 59.0
+- positions:
+  - -1.6035590881813278e-05
+  - 2.612247540906054
+  - 0.7828690621852665
+  time_from_start: 59.1
+- positions:
+  - -1.615158992418486e-05
+  - 2.6122470354803493
+  - 0.7828715132416315
+  time_from_start: 59.2
+- positions:
+  - -1.6035590848950676e-05
+  - 2.61224754090348
+  - 0.7828690621821099
+  time_from_start: 59.3
+- positions:
+  - -1.6128399206394306e-05
+  - 2.6122471142535737
+  - 0.7828711314213139
+  time_from_start: 59.4
+- positions:
+  - -1.603562395668945e-05
+  - 2.6122472762565945
+  - 0.7828703362765213
+  time_from_start: 59.5
+- positions:
+  - -1.6035590353347118e-05
+  - 2.6122475409061785
+  - 0.7828690621822867
+  time_from_start: 59.6
+- positions:
+  - -1.6035602929065362e-05
+  - 2.6122475409250754
+  - 0.7828690621850392
+  time_from_start: 59.7
+- positions:
+  - -1.5418299824432324e-05
+  - 2.6122460172900723
+  - 0.7828763963737781
+  time_from_start: 59.8
+- positions:
+  - -1.6035590337359906e-05
+  - 2.612247540904061
+  - 0.7828690621830399
+  time_from_start: 59.9
+- positions:
+  - -1.603560224960887e-05
+  - 2.612247540920338
+  - 0.7828690621864345
+  time_from_start: 60.0
+- positions:
+  - -1.544130289587997e-05
+  - 2.612246079533646
+  - 0.7828760978691989
+  time_from_start: 60.1
+- positions:
+  - -1.6035601529296173e-05
+  - 2.612247540914037
+  - 0.7828690621847842
+  time_from_start: 60.2
+- positions:
+  - -1.6035582718565422e-05
+  - 2.6122475409164583
+  - 0.7828690621827059
+  time_from_start: 60.3
+- positions:
+  - -1.6455937126735876e-05
+  - 2.6122463948236945
+  - 0.7828746235432469
+  time_from_start: 60.4
+- positions:
+  - -1.60355909262222e-05
+  - 2.612247540908541
+  - 0.7828690621841528
+  time_from_start: 60.5
+- positions:
+  - -1.617955554333861e-05
+  - 2.612246985190481
+  - 0.7828717593634362
+  time_from_start: 60.6
+- positions:
+  - -1.6035590285845558e-05
+  - 2.612247540903059
+  - 0.7828690621805396
+  time_from_start: 60.7
+- positions:
+  - -1.6035590873819672e-05
+  - 2.6122475409056527
+  - 0.782869062185183
+  time_from_start: 60.8
+- positions:
+  - -1.6148712062680204e-05
+  - 2.6122470461494522
+  - 0.7828714639237901
+  time_from_start: 60.9
+- positions:
+  - -1.6035590859608817e-05
+  - 2.612247540903361
+  - 0.7828690621820806
+  time_from_start: 61.0
+- positions:
+  - -1.6134596735994933e-05
+  - 2.612247104501966
+  - 0.7828711808201261
+  time_from_start: 61.1
+- positions:
+  - -1.6035623583654512e-05
+  - 2.6122472803275496
+  - 0.7828703177118159
+  time_from_start: 61.2
+- positions:
+  - -1.6035590350682583e-05
+  - 2.6122475409061074
+  - 0.7828690621822378
+  time_from_start: 61.3
+- positions:
+  - -1.603560292462447e-05
+  - 2.6122475409249937
+  - 0.782869062184969
+  time_from_start: 61.4
+- positions:
+  - -1.541401259963493e-05
+  - 2.612246021773025
+  - 0.7828763809061359
+  time_from_start: 61.5
+- positions:
+  - -1.6035590338248085e-05
+  - 2.612247540903759
+  - 0.7828690621829608
+  time_from_start: 61.6
+- positions:
+  - -1.6035602135922034e-05
+  - 2.6122475409197
+  - 0.7828690621862826
+  time_from_start: 61.7
+- positions:
+  - -1.54473394360366e-05
+  - 2.6122461056767996
+  - 0.7828759777798444
+  time_from_start: 61.8
+- positions:
+  - -1.603560165452933e-05
+  - 2.6122475409140833
+  - 0.7828690621848127
+  time_from_start: 61.9
+- positions:
+  - -1.603558282070594e-05
+  - 2.612247540915961
+  - 0.7828690621826269
+  time_from_start: 62.0
+- positions:
+  - -1.6450889510188915e-05
+  - 2.612246415946183
+  - 0.782874526486034
+  time_from_start: 62.1
+- positions:
+  - -1.6035590927110377e-05
+  - 2.6122475409084505
+  - 0.7828690621840879
+  time_from_start: 62.2
+- positions:
+  - -1.618115802326514e-05
+  - 2.612246986675318
+  - 0.7828717548420228
+  time_from_start: 62.3
+- positions:
+  - -1.60355902840692e-05
+  - 2.6122475409028265
+  - 0.7828690621804748
+  time_from_start: 62.4
+- positions:
+  - -1.60355908684906e-05
+  - 2.612247540905278
+  - 0.7828690621850969
+  time_from_start: 62.5
+- positions:
+  - -1.6145886217344696e-05
+  - 2.6122470566091565
+  - 0.7828714154965128
+  time_from_start: 62.6
+- positions:
+  - -1.6035590864937888e-05
+  - 2.6122475409032404
+  - 0.7828690621820407
+  time_from_start: 62.7
+- positions:
+  - -1.6140269818443187e-05
+  - 2.6122470960397184
+  - 0.7828712240372049
+  time_from_start: 62.8
+- positions:
+  - -1.6035623216836825e-05
+  - 2.6122472843680313
+  - 0.7828702992479917
+  time_from_start: 62.9
+- positions:
+  - -1.603559035157076e-05
+  - 2.6122475409060293
+  - 0.7828690621821854
+  time_from_start: 63.0
+- positions:
+  - -1.603560291396633e-05
+  - 2.6122475409248835
+  - 0.7828690621848926
+  time_from_start: 63.1
+- positions:
+  - -1.5410325727494012e-05
+  - 2.6122460272260533
+  - 0.7828763606666955
+  time_from_start: 63.2
+- positions:
+  - -1.6035590337359906e-05
+  - 2.6122475409034784
+  - 0.7828690621828782
+  time_from_start: 63.3
+- positions:
+  - -1.603560201957066e-05
+  - 2.612247540919096
+  - 0.7828690621861307
+  time_from_start: 63.4
+- positions:
+  - -1.54529676885673e-05
+  - 2.6122461302823705
+  - 0.7828758648535192
+  time_from_start: 63.5
+- positions:
+  - -1.6035601764663454e-05
+  - 2.612247540914108
+  - 0.7828690621848269
+  time_from_start: 63.6
+- positions:
+  - -1.603558292284646e-05
+  - 2.6122475409154866
+  - 0.7828690621825389
+  time_from_start: 63.7
+- positions:
+  - -1.6446388254820477e-05
+  - 2.6122464357243373
+  - 0.7828744357822055
+  time_from_start: 63.8
+- positions:
+  - -1.6035590923557663e-05
+  - 2.6122475409083474
+  - 0.7828690621840231
+  time_from_start: 63.9
+- positions:
+  - -1.6182491914484842e-05
+  - 2.6122469888263513
+  - 0.7828717470849229
+  time_from_start: 64.0
+- positions:
+  - -1.60355902840692e-05
+  - 2.6122475409026116
+  - 0.7828690621804082
+  time_from_start: 64.1
+- positions:
+  - -1.6035590861385174e-05
+  - 2.6122475409049315
+  - 0.7828690621850063
+  time_from_start: 64.2
+- positions:
+  - -1.6143132741675004e-05
+  - 2.612247066746317
+  - 0.7828713685575233
+  time_from_start: 64.3
+- positions:
+  - -1.6035590870266958e-05
+  - 2.612247540903123
+  - 0.782869062181998
+  time_from_start: 64.4
+- positions:
+  - -1.6145428031855147e-05
+  - 2.6122470888928877
+  - 0.7828712609657531
+  time_from_start: 64.5
+- positions:
+  - -1.603562286067728e-05
+  - 2.6122472883471453
+  - 0.7828702810581252
+  time_from_start: 64.6
+- positions:
+  - -1.603559035245894e-05
+  - 2.612247540905946
+  - 0.7828690621821339
+  time_from_start: 64.7
+- positions:
+  - -1.603560289620276e-05
+  - 2.6122475409247485
+  - 0.7828690621848082
+  time_from_start: 64.8
+- positions:
+  - -1.540725933413256e-05
+  - 2.6122460336888125
+  - 0.7828763355879191
+  time_from_start: 64.9
+- positions:
+  - -1.6035590333807193e-05
+  - 2.6122475409032333
+  - 0.7828690621827903
+  time_from_start: 65.0
+- positions:
+  - -1.6035601909436537e-05
+  - 2.612247540918549
+  - 0.7828690621859788
+  time_from_start: 65.1
+- positions:
+  - -1.5458139904112045e-05
+  - 2.612246153267037
+  - 0.78287575963585
+  time_from_start: 65.2
+- positions:
+  - -1.603560185703401e-05
+  - 2.612247540914126
+  - 0.7828690621848251
+  time_from_start: 65.3
+- positions:
+  - -1.6035583024986977e-05
+  - 2.6122475409150585
+  - 0.7828690621824466
+  time_from_start: 65.4
+- positions:
+  - -1.6442445687658847e-05
+  - 2.6122464540701724
+  - 0.7828743519667922
+  time_from_start: 65.5
+- positions:
+  - -1.6035590923557663e-05
+  - 2.6122475409082
+  - 0.78286906218396
+  time_from_start: 65.6
+- positions:
+  - -1.618354186927462e-05
+  - 2.612246991609343
+  - 0.7828717362920274
+  time_from_start: 65.7
+- positions:
+  - -1.60355902840692e-05
+  - 2.6122475409024144
+  - 0.7828690621803434
+  time_from_start: 65.8
+- positions:
+  - -1.603559085250339e-05
+  - 2.612247540904619
+  - 0.7828690621849175
+  time_from_start: 65.9
+- positions:
+  - -1.6035590269858346e-05
+  - 2.61224754089276
+  - 0.7828690621815655
+  time_from_start: 66.0
+- positions:
+  - -1.6035591394292226e-05
+  - 2.6122470586203814
+  - 0.7828713985287123
+  time_from_start: 66.1
+- positions:
+  - -1.603558463081356e-05
+  - 2.6122464075534797
+  - 0.7828745554237528
+  time_from_start: 66.2
+- positions:
+  - -1.6035590916452236e-05
+  - 2.6122475408984585
+  - 0.7828690621849885
+  time_from_start: 66.3
+- positions:
+  - -1.6541649606516273e-05
+  - 2.612246251560947
+  - 0.7828753409349201
+  time_from_start: 66.4
+- positions:
+  - -1.6035590187257753e-05
+  - 2.6122475408928842
+  - 0.7828690621818275
+  time_from_start: 66.5
+- positions:
+  - -1.603559037999247e-05
+  - 2.612247540885658
+  - 0.7828690621851866
+  time_from_start: 66.6
+- positions:
+  - -1.6035593989549568e-05
+  - 2.6122471758849706
+  - 0.7828708315734412
+  time_from_start: 66.7
+- positions:
+  - -1.6035590378216114e-05
+  - 2.612247540881434
+  - 0.7828690621819305
+  time_from_start: 66.8
+- positions:
+  - -1.6497962895378748e-05
+  - 2.6122463435992174
+  - 0.782874894470706
+  time_from_start: 66.9
+- positions:
+  - -1.6035598972230503e-05
+  - 2.612247397983804
+  - 0.7828697584268838
+  time_from_start: 67.0
+- positions:
+  - -1.603558987905984e-05
+  - 2.6122475409016133
+  - 0.782869062183404
+  time_from_start: 67.1
+- positions:
+  - -1.6035585998608326e-05
+  - 2.6122475408917154
+  - 0.7828690622000165
+  time_from_start: 67.2
+- positions:
+  - -1.6035590287621915e-05
+  - 2.612247540897883
+  - 0.7828690621822272
+  time_from_start: 67.3
+- positions:
+  - -1.60355907121712e-05
+  - 2.61224754089017
+  - 0.7828690621836358
+  time_from_start: 67.4
+- positions:
+  - -1.6035590248542064e-05
+  - 2.612247540877931
+  - 0.7828690621872321
+  time_from_start: 67.5
+- positions:
+  - -1.60355902059095e-05
+  - 2.6122475409035335
+  - 0.7828690621810708
+  time_from_start: 67.6
+- positions:
+  - -1.6035590292062807e-05
+  - 2.6122475408758685
+  - 0.7828690621841963
+  time_from_start: 67.7
+- positions:
+  - -1.603559042528957e-05
+  - 2.612247540881448
+  - 0.7828690621815388
+  time_from_start: 67.8
+- positions:
+  - -1.6765705665555686e-05
+  - 2.6122457485424135
+  - 0.7828777979303085
+  time_from_start: 67.9
+- positions:
+  - -1.6035581374751473e-05
+  - 2.612247540911941
+  - 0.7828690621830452
+  time_from_start: 68.0
+- positions:
+  - -1.6035590410190537e-05
+  - 2.612246689806099
+  - 0.782873190518595
+  time_from_start: 68.1
+- positions:
+  - -1.6035590821417145e-05
+  - 2.612247540897446
+  - 0.7828690621842256
+  time_from_start: 68.2
+- positions:
+  - -1.603558194940291e-05
+  - 2.6122475409146144
+  - 0.7828690621829892
+  time_from_start: 68.3
+- positions:
+  - -1.6035585497675697e-05
+  - 2.612247540880512
+  - 0.782869062213031
+  time_from_start: 68.4
+- positions:
+  - -1.562435499913306e-05
+  - 2.6122465109170605
+  - 0.7828740396691831
+  time_from_start: 68.5
+- positions:
+  - -1.602883415419143e-05
+  - 2.6122461063261593
+  - 0.7828760219328954
+  time_from_start: 68.6
+- positions:
+  - -1.597611110160102e-05
+  - 2.612247173499611
+  - 0.7828708380808793
+  time_from_start: 68.7
+- positions:
+  - -1.6035581092310736e-05
+  - 2.6122475409033186
+  - 0.7828690621834875
+  time_from_start: 68.8
+- positions:
+  - -1.603558698626273e-05
+  - 2.6122468655122937
+  - 0.7828723393228447
+  time_from_start: 68.9
+- positions:
+  - -1.6035588878082763e-05
+  - 2.612247540886587
+  - 0.7828690621946395
+  time_from_start: 69.0
+- positions:
+  - -1.6035590387097898e-05
+  - 2.612247540878524
+  - 0.7828690621831145
+  time_from_start: 69.1
+- positions:
+  - -1.6028203241980066e-05
+  - 2.6122472529634457
+  - 0.7828704543038061
+  time_from_start: 69.2
+- positions:
+  - -1.5599577119829178e-05
+  - 2.6122464484875323
+  - 0.7828743430514358
+  time_from_start: 69.3
+- positions:
+  - -1.603559044749403e-05
+  - 2.6122475408758365
+  - 0.7828690621840737
+  time_from_start: 69.4
+- positions:
+  - -1.6035588886964547e-05
+  - 2.6122475409087826
+  - 0.7828690621803149
+  time_from_start: 69.5
+- positions:
+  - -1.6681423023356956e-05
+  - 2.6122459586340234
+  - 0.782876782967886
+  time_from_start: 69.6
+- positions:
+  - -1.5980859804365366e-05
+  - 2.612247202036187
+  - 0.7828707007256543
+  time_from_start: 69.7
+- positions:
+  - -1.6035595407082326e-05
+  - 2.6122475409235104
+  - 0.7828690621784231
+  time_from_start: 69.8
+- positions:
+  - -1.6035590106433517e-05
+  - 2.6122469645252178
+  - 0.7828718606244927
+  time_from_start: 69.9
+- positions:
+  - -1.603559022189671e-05
+  - 2.612247540873705
+  - 0.7828690621840586
+  time_from_start: 70.0
+- positions:
+  - -1.6555194995326872e-05
+  - 2.6122462476879313
+  - 0.7828753748792199
+  time_from_start: 70.1
+- positions:
+  - -1.6035590213903106e-05
+  - 2.6122475408858907
+  - 0.7828690621827521
+  time_from_start: 70.2
+- positions:
+  - -1.6035590510554698e-05
+  - 2.612247540864349
+  - 0.7828690621883281
+  time_from_start: 70.3
+- positions:
+  - -1.6035593968233286e-05
+  - 2.6122471647630743
+  - 0.7828708888562952
+  time_from_start: 70.4
+- positions:
+  - -1.6035590401308752e-05
+  - 2.6122475408756163
+  - 0.7828690621833223
+  time_from_start: 70.5
+- positions:
+  - -1.6484862143784085e-05
+  - 2.6122463943852186
+  - 0.7828746607559429
+  time_from_start: 70.6
+- positions:
+  - -1.6035598815022922e-05
+  - 2.612247414928234
+  - 0.7828696777232356
+  time_from_start: 70.7
+- positions:
+  - -1.6035589862184452e-05
+  - 2.61224754090016
+  - 0.7828690621837504
+  time_from_start: 70.8
+- positions:
+  - -1.6035585414186926e-05
+  - 2.6122475408905057
+  - 0.7828690622025016
+  time_from_start: 70.9
+- positions:
+  - -1.6035590294727342e-05
+  - 2.6122475408953356
+  - 0.7828690621824395
+  time_from_start: 71.0
+- positions:
+  - -1.603559074059291e-05
+  - 2.612247540880986
+  - 0.7828690621849717
+  time_from_start: 71.1
+- positions:
+  - -1.6035590344465334e-05
+  - 2.6122475408501646
+  - 0.7828690621916117
+  time_from_start: 71.2
+- positions:
+  - -1.603559021745582e-05
+  - 2.6122475409005705
+  - 0.7828690621815806
+  time_from_start: 71.3
+- positions:
+  - -1.6035590308938197e-05
+  - 2.6122475408685055
+  - 0.7828690621859948
+  time_from_start: 71.4
+- positions:
+  - -1.6035590457263993e-05
+  - 2.612247540873563
+  - 0.7828690621834555
+  time_from_start: 71.5
+- positions:
+  - -1.6762330060871022e-05
+  - 2.612245793888704
+  - 0.7828775991234354
+  time_from_start: 71.6
+- positions:
+  - -1.6035581161588652e-05
+  - 2.6122475409104577
+  - 0.7828690621839165
+  time_from_start: 71.7
+- positions:
+  - -1.603559004248467e-05
+  - 2.6122467396569817
+  - 0.7828729563412704
+  time_from_start: 71.8
+- positions:
+  - -1.603559082408168e-05
+  - 2.612247540894087
+  - 0.7828690621845675
+  time_from_start: 71.9
+- positions:
+  - -1.603560277896321e-05
+  - 2.6122475408905874
+  - 0.7828690621853971
+  time_from_start: 72.0
+- positions:
+  - -1.6035583963791566e-05
+  - 2.6122475408367354
+  - 0.7828690622322885
+  time_from_start: 72.1
+- positions:
+  - -1.603558981777553e-05
+  - 2.6122475409004444
+  - 0.7828690621837886
+  time_from_start: 72.2
+- positions:
+  - -1.60355872056428e-05
+  - 2.612247540862217
+  - 0.7828690622036012
+  time_from_start: 72.3
+- positions:
+  - -1.603559042440139e-05
+  - 2.6122475408656207
+  - 0.7828690621859673
+  time_from_start: 72.4
+- positions:
+  - -1.603559035867619e-05
+  - 2.6122475408825085
+  - 0.7828690621822307
+  time_from_start: 72.5
+- positions:
+  - -1.6035588658702693e-05
+  - 2.6122475408759254
+  - 0.7828690622001746
+  time_from_start: 72.6
+- positions:
+  - -1.6035590023832924e-05
+  - 2.612247540895792
+  - 0.7828690621845631
+  time_from_start: 72.7
+- positions:
+  - -1.603562795704505e-05
+  - 2.612247264451799
+  - 0.7828704008902827
+  time_from_start: 72.8
+- positions:
+  - -1.6035590316043624e-05
+  - 2.6122475408739447
+  - 0.7828690621850072
+  time_from_start: 72.9
+- positions:
+  - -1.6035588989105065e-05
+  - 2.612247490351212
+  - 0.7828693069398316
+  time_from_start: 73.0
+- positions:
+  - -1.6035590181040504e-05
+  - 2.612247540906896
+  - 0.7828690621808239
+  time_from_start: 73.1
+- positions:
+  - -1.603557986484816e-05
+  - 2.6122475409236863
+  - 0.7828690621825807
+  time_from_start: 73.2
+- positions:
+  - -1.6738214815070762e-05
+  - 2.6122458601678833
+  - 0.7828772852880448
+  time_from_start: 73.3
+- positions:
+  - -1.6035590378216114e-05
+  - 2.612247540873444
+  - 0.7828690621850045
+  time_from_start: 73.4
+- positions:
+  - -1.6035589995411215e-05
+  - 2.6122469019967625
+  - 0.7828721701785497
+  time_from_start: 73.5
+- positions:
+  - -1.6035582565798734e-05
+  - 2.6122475409030717
+  - 0.7828690621842389
+  time_from_start: 73.6
+- positions:
+  - -1.6592796039383018e-05
+  - 2.6122461849865477
+  - 0.7828756979094722
+  time_from_start: 73.7
+- positions:
+  - -1.6035588538798606e-05
+  - 2.6122475408695536
+  - 0.7828690621848784
+  time_from_start: 73.8
+- positions:
+  - -1.603559032492541e-05
+  - 2.612246560841376
+  - 0.7828738307949852
+  time_from_start: 73.9
+- positions:
+  - -1.6035589735174938e-05
+  - 2.6122475409080472
+  - 0.7828690621827707
+  time_from_start: 74.0
+- positions:
+  - -1.594951830341529e-05
+  - 2.612247127841945
+  - 0.7828710633993445
+  time_from_start: 74.1
+- positions:
+  - -1.6035590418184142e-05
+  - 2.6122475408764263
+  - 0.7828690621834076
+  time_from_start: 74.2
+- positions:
+  - -1.6035588579654814e-05
+  - 2.6122475408707544
+  - 0.7828690622024732
+  time_from_start: 74.3
+- positions:
+  - -1.603559003804378e-05
+  - 2.6122475408936445
+  - 0.7828690621848766
+  time_from_start: 74.4
+- positions:
+  - -1.6035626997812358e-05
+  - 2.612247272895992
+  - 0.7828703608183094
+  time_from_start: 74.5
+- positions:
+  - -1.613049943749445e-05
+  - 2.6122471309223556
+  - 0.7828710699819812
+  time_from_start: 74.6
+- positions:
+  - -1.6586820694719506e-05
+  - 2.6122462038202148
+  - 0.7828756102338845
+  time_from_start: 74.7
+- positions:
+  - -1.673123836809509e-05
+  - 2.6122458865144935
+  - 0.7828771647274708
+  time_from_start: 74.8
+- positions:
+  - -1.6129963311684037e-05
+  - 2.6122471324518735
+  - 0.7828710629457811
+  time_from_start: 74.9
+- positions:
+  - -1.658747662336424e-05
+  - 2.6122462043702726
+  - 0.7828756090395723
+  time_from_start: 75.0
+- positions:
+  - -1.6729468600651387e-05
+  - 2.612245892838537
+  - 0.7828771356219741
+  time_from_start: 75.1
+- positions:
+  - -1.5948424070266753e-05
+  - 2.612247123330283
+  - 0.7828710863641914
+  time_from_start: 75.2
+- positions:
+  - -1.6035616101639505e-05
+  - 2.6122473611695707
+  - 0.7828699335227487
+  time_from_start: 75.299999999
+- positions:
+  - -1.5970889646332864e-05
+  - 2.6122471792179454
+  - 0.7828708156171791
+  time_from_start: 75.399999999
+- positions:
+  - -1.603559034091262e-05
+  - 2.612247540905221
+  - 0.7828690621827965
+  time_from_start: 75.499999999
+- positions:
+  - -1.6035579956330537e-05
+  - 2.612247540920656
+  - 0.7828690621830425
+  time_from_start: 75.599999999
+- positions:
+  - -1.6035589696983266e-05
+  - 2.612247540910202
+  - 0.7828690621827699
+  time_from_start: 75.699999999
+- positions:
+  - -1.5702944078377357e-05
+  - 2.6122466834247753
+  - 0.7828731687346275
+  time_from_start: 75.799999999
+- positions:
+  - -1.6035599532671085e-05
+  - 2.6122475409050754
+  - 0.782869062184055
+  time_from_start: 75.899999999
+- positions:
+  - -1.603558984619724e-05
+  - 2.612246896059327
+  - 0.7828722036144464
+  time_from_start: 75.999999999
+- positions:
+  - -1.6035588606300166e-05
+  - 2.612247540876675
+  - 0.7828690622024785
+  time_from_start: 76.099999999
+- positions:
+  - -1.6035602106612146e-05
+  - 2.6122475409189825
+  - 0.7828690621843224
+  time_from_start: 76.199999999
+- positions:
+  - -1.610819047037637e-05
+  - 2.6122471858057494
+  - 0.7828708035517709
+  time_from_start: 76.299999999
+- positions:
+  - -1.5787522423593714e-05
+  - 2.6103006396596147
+  - 0.78602376131626
+  time_from_start: 76.399999999
+- positions:
+  - -1.7439642570948877e-05
+  - 2.602271934128394
+  - 0.7990901330437632
+  time_from_start: 76.499999999
+- positions:
+  - -1.2972257141363741e-05
+  - 2.5881198853152245
+  - 0.8220493652570413
+  time_from_start: 76.599999999
+- positions:
+  - -1.0393431242761153e-05
+  - 2.5678019658962707
+  - 0.8550494042407912
+  time_from_start: 76.699999999
+- positions:
+  - -7.03314301730984e-06
+  - 2.5413270898072895
+  - 0.8980494989609875
+  time_from_start: 76.799999999
+- positions:
+  - -2.891393378945395e-06
+  - 2.508695258366659
+  - 0.9510496627648335
+  time_from_start: 76.899999999
+- positions:
+  - 2.0350645746347595e-06
+  - 2.4698808856737777
+  - 1.0140914667315224
+  time_from_start: 76.999999999
+- positions:
+  - 6.89463241076993e-06
+  - 2.43159351164881
+  - 1.076277365235156
+  time_from_start: 77.099999999
+- positions:
+  - 1.097710780229022e-05
+  - 2.3994286572053944
+  - 1.128519165714546
+  time_from_start: 77.199999999
+- positions:
+  - 1.4278120805677474e-05
+  - 2.3734207570087484
+  - 1.1707609243669896
+  time_from_start: 77.299999999
+- positions:
+  - 1.700664605053248e-05
+  - 2.3519233515777103
+  - 1.2056767940364619
+  time_from_start: 77.399999999
+- positions:
+  - 1.866658803795218e-05
+  - 2.3388450609382954
+  - 1.2269184260143575
+  time_from_start: 77.499999999
+- positions:
+  - 1.9545067636350666e-05
+  - 2.3319237278012324
+  - 1.2381599888652
+  time_from_start: 77.599999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256186
+  - 1.2401078081768402
+  time_from_start: 77.699999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 77.799999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 77.899999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 77.999999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 78.099999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 78.199999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 78.299999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 78.399999999
+- positions:
+  - 1.969728130024606e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 78.499999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 78.599999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 78.699999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 78.799999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 78.899999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 78.999999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 79.099999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 79.199999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 79.299999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 79.399999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 79.499999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 79.599999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 79.699999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 79.799999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 79.899999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 79.999999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 80.099999999
+- positions:
+  - 1.969728130024606e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 80.199999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 80.299999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 80.399999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 80.499999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 80.599999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 80.699999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 80.799999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 80.899999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 80.999999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 81.099999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 81.199999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 81.299999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 81.399999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 81.499999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 81.599999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 81.699999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 81.799999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 81.899999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 81.999999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 82.099999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 82.199999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 82.299999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 82.399999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 82.499999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 82.599999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 82.699999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 82.799999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 82.899999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 82.999999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 83.099999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 83.199999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 83.299999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 83.399999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 83.499999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 83.599999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 83.699999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 83.799999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 83.899999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 83.999999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 84.099999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 84.199999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 84.299999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 84.399999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 84.499999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 84.599999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 84.699999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 84.799999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 84.899999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 84.999999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 85.099999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 85.199999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 85.299999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 85.399999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 85.499999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 85.599999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 85.699999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 85.799999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 85.899999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 85.999999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 86.099999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 86.199999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 86.299999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 86.399999999
+- positions:
+  - 1.969728130024606e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 86.499999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 86.599999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 86.699999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 86.799999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 86.899999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 86.999999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 87.099999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 87.199999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 87.299999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 87.399999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 87.499999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 87.599999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 87.699999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 87.799999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 87.899999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 87.999999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 88.099999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 88.199999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 88.299999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 88.399999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 88.499999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 88.599999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 88.699999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 88.799999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 88.899999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 88.999999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 89.099999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 89.199999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 89.299999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 89.399999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 89.499999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 89.599999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 89.699999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 89.799999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 89.899999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 89.999999999
+- positions:
+  - 1.9697281299357883e-05
+  - 2.3307244723256204
+  - 1.2401078081768402
+  time_from_start: 90.099999999
+- positions:
+  - 1.9456783688198698e-05
+  - 2.3314957201000066
+  - 1.2377062494605013
+  time_from_start: 90.199999999
+- positions:
+  - 1.8239475448211806e-05
+  - 2.3353593933099273
+  - 1.2256400260249825
+  time_from_start: 90.299999999
+- positions:
+  - 1.601997864852933e-05
+  - 2.342403961314048
+  - 1.2036398927043388
+  time_from_start: 90.399999999
+- positions:
+  - 1.2791619669272336e-05
+  - 2.3526506062208625
+  - 1.171639700489048
+  time_from_start: 90.499999999
+- positions:
+  - 8.55439859481777e-06
+  - 2.3660993279171727
+  - 1.1296394532792924
+  time_from_start: 90.599999999
+- positions:
+  - 3.308316458117133e-06
+  - 2.3827501225552723
+  - 1.0776391674721246
+  time_from_start: 90.699999999
+- positions:
+  - -2.9460207979781217e-06
+  - 2.402601064688758
+  - 1.0156448613177522
+  time_from_start: 90.799999999
+- positions:
+  - -9.056954619168778e-06
+  - 2.4219968463190753
+  - 0.955072029542297
+  time_from_start: 90.899999999
+- positions:
+  - -1.416326069225704e-05
+  - 2.4382039856764344
+  - 0.9044573048280897
+  time_from_start: 90.999999999
+- positions:
+  - -1.8260704584882603e-05
+  - 2.451209044729662
+  - 0.8638426490144777
+  time_from_start: 91.099999999
+- positions:
+  - -2.1349286296157288e-05
+  - 2.461012026632364
+  - 0.8332280483190244
+  time_from_start: 91.199999999
+- positions:
+  - -2.3429005827857452e-05
+  - 2.4676129349373745
+  - 0.8126134886795908
+  time_from_start: 91.299999999
+- positions:
+  - -2.4499863175542202e-05
+  - 2.4710117726815604
+  - 0.8019989585958927
+  time_from_start: 91.399999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 91.499999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 91.599999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 91.699999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 91.799999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 91.899999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 91.999999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 92.099999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 92.199999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 92.299999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 92.399999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 92.499999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 92.599999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 92.699999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 92.799999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 92.899999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 92.999999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 93.099999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 93.199999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 93.299999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 93.399999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 93.499999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 93.599999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 93.699999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 93.799999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 93.899999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 93.999999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 94.099999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 94.199999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 94.299999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 94.399999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 94.499999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 94.599999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 94.699999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 94.799999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 94.899999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 94.999999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 95.099999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 95.199999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 95.299999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 95.399999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 95.499999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 95.599999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 95.699999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 95.799999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 95.899999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 95.999999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 96.099999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 96.199999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 96.299999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 96.399999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 96.499999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 96.599999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 96.699999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 96.799999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 96.899999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 96.999999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 97.099999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 97.199999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 97.299999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 97.399999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 97.499999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 97.599999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 97.699999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 97.799999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 97.899999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 97.999999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 98.099999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 98.199999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 98.299999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 98.399999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 98.499999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 98.599999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 98.699999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 98.799999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 98.899999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 98.999999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 99.099999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 99.199999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 99.299999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 99.399999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 99.499999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 99.599999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 99.699999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 99.799999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 99.899999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 99.999999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 100.099999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 100.199999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 100.299999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 100.399999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 100.499999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 100.599999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 100.699999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 100.799999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 100.899999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 100.999999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 101.099999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 101.199999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 101.299999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 101.399999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 101.499999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 101.599999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 101.699999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 101.799999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 101.899999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 101.999999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 102.099999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 102.199999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 102.299999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 102.399999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 102.499999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 102.599999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 102.699999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 102.799999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 102.899999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 102.999999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 103.099999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 103.199999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 103.299999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 103.399999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 103.499999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 103.599999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 103.699999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 103.799999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 103.899999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 103.999999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 104.099999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 104.199999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 104.299999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 104.399999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 104.499999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 104.599999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 104.699999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 104.799999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 104.899999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 104.999999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 105.099999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 105.199999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 105.299999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 105.399999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 105.499999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 105.599999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 105.699999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 105.799999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 105.899999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 105.999999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 106.099999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 106.199999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 106.299999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 106.399999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 106.499999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 106.599999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 106.699999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 106.799999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 106.899999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 106.999999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 107.099999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 107.199999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 107.299999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 107.399999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 107.499999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 107.599999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 107.699999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 107.799999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 107.899999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 107.999999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 108.099999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 108.199999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 108.299999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 108.399999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 108.499999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 108.599999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 108.699999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 108.799999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 108.899999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 108.999999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 109.099999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 109.199999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 109.299999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 109.399999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 109.499999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 109.599999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 109.699999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 109.799999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 109.899999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 109.999999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 110.099999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 110.199999999
+- positions:
+  - -2.46588733512354e-05
+  - 2.471516461497023
+  - 0.8004228214247746
+  time_from_start: 110.299999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 110.399999999
+- positions:
+  - -2.4658873353011757e-05
+  - 2.471516461497025
+  - 0.8004228214247746
+  time_from_start: 110.499999999
+- positions:
+  - -2.462615520570921e-05
+  - 2.4718205611820494
+  - 0.8003041772552093
+  time_from_start: 110.599999999
+- positions:
+  - -2.2966623031805966e-05
+  - 2.4799582815858603
+  - 0.7976189472381003
+  time_from_start: 110.699999999
+- positions:
+  - 0.00042838039482973045
+  - 2.496579716340664
+  - 0.7947786654562021
+  time_from_start: 110.799999999
+- positions:
+  - -1.7752211962651643e-05
+  - 2.525865966803753
+  - 0.7822440271479314
+  time_from_start: 110.899999999
+- positions:
+  - -1.3852716674200849e-05
+  - 2.5629358142207685
+  - 0.7698576175132423
+  time_from_start: 110.999999999
+- positions:
+  - -1.1049960480846721e-05
+  - 2.5944980203484587
+  - 0.7593031039413303
+  time_from_start: 111.099999999
+- positions:
+  - -8.557626833827214e-06
+  - 2.6160572157027726
+  - 0.7521028277774606
+  time_from_start: 111.199999999
+- positions:
+  - -7.513380302803796e-06
+  - 2.6276182344873362
+  - 0.7482363412959607
+  time_from_start: 111.299999999
+- positions:
+  - -7.541273468802956e-06
+  - 2.6297697324531075
+  - 0.7475195212636354
+  time_from_start: 111.399999999
+- positions:
+  - -7.146467989826988e-06
+  - 2.629770203911532
+  - 0.74751721078069
+  time_from_start: 111.499999999
+- positions:
+  - -7.658426213197345e-06
+  - 2.629769476687116
+  - 0.7475207675156117
+  time_from_start: 111.599999999
+- positions:
+  - -7.146493416598787e-06
+  - 2.629770645022889
+  - 0.7475150698805546
+  time_from_start: 111.699999999
+- positions:
+  - -7.146465995866436e-06
+  - 2.6297707924572062
+  - 0.7475143573815419
+  time_from_start: 111.799999999
+- positions:
+  - -7.1464680821975435e-06
+  - 2.629770792469179
+  - 0.7475143573670309
+  time_from_start: 111.899999999
+- positions:
+  - -7.146463565810279e-06
+  - 2.6297707924752416
+  - 0.7475143573646781
+  time_from_start: 111.999999999
+- positions:
+  - -7.251940840724558e-06
+  - 2.629770290050269
+  - 0.7475168059857165
+  time_from_start: 112.099999999
+- positions:
+  - -7.146467693175396e-06
+  - 2.629770792448138
+  - 0.7475143573701066
+  time_from_start: 112.199999999
+- positions:
+  - -7.14646758392945e-06
+  - 2.6297707924729465
+  - 0.7475143573652252
+  time_from_start: 112.299999999
+- positions:
+  - -7.390562407394441e-06
+  - 2.629769648343835
+  - 0.7475199135239183
+  time_from_start: 112.399999999
+- positions:
+  - -7.146510470512624e-06
+  - 2.6297699298824977
+  - 0.7475184831330797
+  time_from_start: 112.499999999
+- positions:
+  - -7.1464694091361025e-06
+  - 2.629770009561831
+  - 0.7475181219274143
+  time_from_start: 112.599999999
+- positions:
+  - -6.9086828640152476e-06
+  - 2.629769563899009
+  - 0.7475202973568384
+  time_from_start: 112.699999999
+- positions:
+  - -7.1471118747723494e-06
+  - 2.6297699975763997
+  - 0.747518197425495
+  time_from_start: 112.799999999
+- positions:
+  - -7.562581954445591e-06
+  - 2.629769689028265
+  - 0.747519721584089
+  time_from_start: 112.899999999
+- positions:
+  - -7.1465101916246e-06
+  - 2.6297699287782503
+  - 0.7475184858740986
+  time_from_start: 112.999999999
+- positions:
+  - -6.633950172307834e-06
+  - 2.629769616586854
+  - 0.7475191976509157
+  time_from_start: 113.099999999
+- positions:
+  - -7.146468858465482e-06
+  - 2.629770006237262
+  - 0.7475181372619613
+  time_from_start: 113.199999999
+- positions:
+  - -7.265252396138067e-06
+  - 2.629770042910998
+  - 0.7475180046204217
+  time_from_start: 113.299999999
+- positions:
+  - -7.147474111235397e-06
+  - 2.6297699964592187
+  - 0.7475181997130367
+  time_from_start: 113.399999999
+- positions:
+  - -7.146555267567578e-06
+  - 2.629769999926875
+  - 0.7475181933361252
+  time_from_start: 113.499999999
+- positions:
+  - -7.146509055644401e-06
+  - 2.62976992787463
+  - 0.7475184886792636
+  time_from_start: 113.599999999
+- positions:
+  - -7.146510702327191e-06
+  - 2.629769929769033
+  - 0.7475184831464601
+  time_from_start: 113.699999999
+- positions:
+  - -7.1464681310473566e-06
+  - 2.629770003149172
+  - 0.7475181507019384
+  time_from_start: 113.799999999
+- positions:
+  - -7.14646976440747e-06
+  - 2.6297700122879526
+  - 0.7475181089909251
+  time_from_start: 113.899999999
+- positions:
+  - -7.147181524835844e-06
+  - 2.6297699955595615
+  - 0.7475182027356739
+  time_from_start: 113.999999999
+- positions:
+  - -7.1467142115366755e-06
+  - 2.629769998705198
+  - 0.7475181949405085
+  time_from_start: 114.099999999
+- positions:
+  - -7.14650823585572e-06
+  - 2.6297699261618313
+  - 0.7475184946019864
+  time_from_start: 114.199999999
+- positions:
+  - -7.146510820454921e-06
+  - 2.629769929040668
+  - 0.7475184854464798
+  time_from_start: 114.299999999
+- positions:
+  - -7.227446530144732e-06
+  - 2.6297696654822253
+  - 0.7475185402137852
+  time_from_start: 114.399999999
+- positions:
+  - -7.146469327423688e-06
+  - 2.629770009197779
+  - 0.7475181235949782
+  time_from_start: 114.499999999
+- positions:
+  - -6.908597109500647e-06
+  - 2.6297695636259846
+  - 0.7475202985437752
+  time_from_start: 114.599999999
+- positions:
+  - -7.147161038112415e-06
+  - 2.6297699980072373
+  - 0.7475181950459717
+  time_from_start: 114.699999999
+- positions:
+  - -7.562451005860282e-06
+  - 2.6297696894582216
+  - 0.7475197195679888
+  time_from_start: 114.799999999
+- positions:
+  - -7.146510398570172e-06
+  - 2.629769928386871
+  - 0.7475184876320489
+  time_from_start: 114.899999999
+- positions:
+  - -6.633805672784376e-06
+  - 2.6297696163714175
+  - 0.747519198579444
+  time_from_start: 114.999999999
+- positions:
+  - -7.146468780305781e-06
+  - 2.62977000594638
+  - 0.7475181385913237
+  time_from_start: 115.099999999
+- positions:
+  - -7.146468782970317e-06
+  - 2.6297700057311015
+  - 0.7475181419453749
+  time_from_start: 115.199999999
+- positions:
+  - -7.146481066477861e-06
+  - 2.629770791502736
+  - 0.7475143561556479
+  time_from_start: 115.299999999
+- positions:
+  - -7.069729105246836e-06
+  - 2.6297698358524375
+  - 0.7475169239293278
+  time_from_start: 115.399999999
+- positions:
+  - -6.908525194582182e-06
+  - 2.629769563378762
+  - 0.7475202996495645
+  time_from_start: 115.499999999
+- positions:
+  - -6.7534566596805234e-06
+  - 2.6297697094184613
+  - 0.7475194227399324
+  time_from_start: 115.599999999
+- positions:
+  - -7.146989849715624e-06
+  - 2.6297699956103813
+  - 0.7475182019257849
+  time_from_start: 115.699999999
+- positions:
+  - -7.147084517988844e-06
+  - 2.6297699960704435
+  - 0.7475182001825802
+  time_from_start: 115.799999999
+- positions:
+  - -7.147186499523173e-06
+  - 2.6297699964312233
+  - 0.7475181987357447
+  time_from_start: 115.899999999
+- positions:
+  - -6.615478756799575e-06
+  - 2.629769629707324
+  - 0.7475191059585269
+  time_from_start: 115.999999999
+- positions:
+  - -7.531649616865366e-06
+  - 2.6297695647478534
+  - 0.747520271168999
+  time_from_start: 116.099999999
+- positions:
+  - -6.744639137856723e-06
+  - 2.629769640203275
+  - 0.7475199142044122
+  time_from_start: 116.199999999
+- positions:
+  - -7.147021769071671e-06
+  - 2.6297699988648713
+  - 0.7475181918970462
+  time_from_start: 116.299999999
+- positions:
+  - -7.294250742972963e-06
+  - 2.6297697510855222
+  - 0.7475177543626677
+  time_from_start: 116.399999999
+- positions:
+  - -7.540579170850492e-06
+  - 2.629769567844466
+  - 0.7475202678577197
+  time_from_start: 116.499999999
+- positions:
+  - -6.849863708247028e-06
+  - 2.629769585597842
+  - 0.7475198239836383
+  time_from_start: 116.599999999
+- positions:
+  - -7.146376071354155e-06
+  - 2.6297699964789203
+  - 0.7475182067978432
+  time_from_start: 116.699999999
+- positions:
+  - -7.14651024757984e-06
+  - 2.6297699276402646
+  - 0.7475184905575798
+  time_from_start: 116.799999999
+- positions:
+  - -7.065520150284499e-06
+  - 2.6297698534557377
+  - 0.7475168641270482
+  time_from_start: 116.899999999
+- positions:
+  - -6.847019359490503e-06
+  - 2.629769589224898
+  - 0.7475198262303788
+  time_from_start: 116.999999999
+- positions:
+  - -7.14647944288771e-06
+  - 2.629769553433807
+  - 0.7475203646489126
+  time_from_start: 117.099999999
+- positions:
+  - -7.14651095012897e-06
+  - 2.629769928404441
+  - 0.7475184882636112
+  time_from_start: 117.199999999
+- positions:
+  - -7.146467810414947e-06
+  - 2.6297700023895825
+  - 0.7475181536063387
+  time_from_start: 117.299999999
+- positions:
+  - -6.845293999191426e-06
+  - 2.6297695904126073
+  - 0.7475198710549362
+  time_from_start: 117.399999999
+- positions:
+  - -6.613535334487608e-06
+  - 2.629769620179319
+  - 0.7475191373111567
+  time_from_start: 117.499999999
+- positions:
+  - -7.120197490273483e-06
+  - 2.629769516009114
+  - 0.7475205361941724
+  time_from_start: 117.599999999
+- positions:
+  - -7.146469099161834e-06
+  - 2.629770008463968
+  - 0.7475181265608857
+  time_from_start: 117.699999999
+- positions:
+  - -6.908462453658615e-06
+  - 2.6297695633137685
+  - 0.7475202997777028
+  time_from_start: 117.799999999
+- positions:
+  - -6.614321468312312e-06
+  - 2.6297696258149283
+  - 0.7475191209649674
+  time_from_start: 117.899999999
+- positions:
+  - -7.52008649484992e-06
+  - 2.62976956413495
+  - 0.74752026131483
+  time_from_start: 117.999999999
+- positions:
+  - -7.146469990892967e-06
+  - 2.62977001540731
+  - 0.7475180937930466
+  time_from_start: 118.099999999
+- positions:
+  - -7.147534099694042e-06
+  - 2.6297699980791993
+  - 0.7475181917082194
+  time_from_start: 118.199999999
+- positions:
+  - -7.146471229901863e-06
+  - 2.629770022893455
+  - 0.7475180588107655
+  time_from_start: 118.299999999
+- positions:
+  - -7.14656203903985e-06
+  - 2.6297699981172613
+  - 0.7475181981338519
+  time_from_start: 118.399999999
+- positions:
+  - -7.146509069855256e-06
+  - 2.6297699253639806
+  - 0.7475184987669001
+  time_from_start: 118.499999999
+- positions:
+  - -7.146352476894435e-06
+  - 2.629769995051058
+  - 0.7475182135495304
+  time_from_start: 118.599999999
+- positions:
+  - -7.146510900390979e-06
+  - 2.6297699277223217
+  - 0.7475184908341239
+  time_from_start: 118.699999999
+- positions:
+  - -7.1465102902124045e-06
+  - 2.6297699283971863
+  - 0.7475184906605312
+  time_from_start: 118.799999999
+- positions:
+  - -7.146469701346803e-06
+  - 2.629770013243693
+  - 0.747518103843241
+  time_from_start: 118.899999999
+- positions:
+  - -7.1472789526794145e-06
+  - 2.629769997482377
+  - 0.7475181940511115
+  time_from_start: 118.999999999
+- positions:
+  - -7.146470626828716e-06
+  - 2.6297700203696195
+  - 0.747518070514082
+  time_from_start: 119.099999999
+- positions:
+  - -7.146806812130535e-06
+  - 2.6297699986927903
+  - 0.7475181939975828
+  time_from_start: 119.199999999
+- positions:
+  - -7.273436611221484e-06
+  - 2.62977004309778
+  - 0.7475180034198159
+  time_from_start: 119.299999999
+- positions:
+  - -7.146373074640167e-06
+  - 2.629769996308905
+  - 0.7475182074584241
+  time_from_start: 119.399999999
+- positions:
+  - -7.146510528244221e-06
+  - 2.6297699272912176
+  - 0.7475184921678215
+  time_from_start: 119.499999999
+- positions:
+  - -7.15514297411346e-06
+  - 2.629769993443446
+  - 0.7475182214622116
+  time_from_start: 119.599999999
+- positions:
+  - -7.1465109927615345e-06
+  - 2.6297699280453113
+  - 0.7475184896787495
+  time_from_start: 119.699999999
+- positions:
+  - -7.5401312393807984e-06
+  - 2.629769717926262
+  - 0.747519570404303
+  time_from_start: 119.799999999
+- positions:
+  - -7.146510562883179e-06
+  - 2.6297699282549267
+  - 0.7475184897510436
+  time_from_start: 119.899999999
+- positions:
+  - -7.146468975705034e-06
+  - 2.629770007536358
+  - 0.7475181310829075
+  time_from_start: 119.999999999
+- positions:
+  - -7.1465102795542634e-06
+  - 2.629769928324098
+  - 0.7475184910568649
+  time_from_start: 120.099999999
+- positions:
+  - -7.146469739538475e-06
+  - 2.629770013594758
+  - 0.7475181021749568
+  time_from_start: 120.199999999
+- positions:
+  - -7.147311770872022e-06
+  - 2.6297699976699285
+  - 0.7475181932675028
+  time_from_start: 120.299999999
+- positions:
+  - -7.146470644592284e-06
+  - 2.629770020546788
+  - 0.7475180696583994
+  time_from_start: 120.399999999
+- positions:
+  - -7.14674558732753e-06
+  - 2.629769998643498
+  - 0.7475181946541669
+  time_from_start: 120.499999999
+- positions:
+  - -7.2734632654558595e-06
+  - 2.6297700431386737
+  - 0.7475180032210575
+  time_from_start: 120.599999999
+- positions:
+  - -7.146371705069043e-06
+  - 2.6297699962229544
+  - 0.7475182078595983
+  time_from_start: 120.699999999
+- positions:
+  - -7.14651061883842e-06
+  - 2.6297699272527844
+  - 0.7475184924031195
+  time_from_start: 120.799999999
+- positions:
+  - -7.1554989453659346e-06
+  - 2.629769993409612
+  - 0.7475182216206848
+  time_from_start: 120.899999999
+- positions:
+  - -7.146511001643319e-06
+  - 2.629769927977387
+  - 0.7475184899750884
+  time_from_start: 120.999999999
+- positions:
+  - -7.540070642519936e-06
+  - 2.6297697180141864
+  - 0.7475195699982615
+  time_from_start: 121.099999999
+- positions:
+  - -7.146510555777752e-06
+  - 2.6297699281813482
+  - 0.7475184900681828
+  time_from_start: 121.199999999
+- positions:
+  - -7.146468958829644e-06
+  - 2.6297700074996744
+  - 0.7475181311997847
+  time_from_start: 121.299999999
+- positions:
+  - -7.146510272448836e-06
+  - 2.629769928251692
+  - 0.7475184913696022
+  time_from_start: 121.399999999
+- positions:
+  - -7.146469720886728e-06
+  - 2.629770013550864
+  - 0.747518102347632
+  time_from_start: 121.499999999
+- positions:
+  - -7.147304212473671e-06
+  - 2.629769997751323
+  - 0.7475181928864076
+  time_from_start: 121.599999999
+- positions:
+  - -7.146470626828716e-06
+  - 2.6297700204822014
+  - 0.747518069929078
+  time_from_start: 121.699999999
+- positions:
+  - -7.146732271756662e-06
+  - 2.62976999861783
+  - 0.7475181948535203
+  time_from_start: 121.799999999
+- positions:
+  - -7.14647282773484e-06
+  - 2.629770028204028
+  - 0.7475180408388011
+  time_from_start: 121.899999999
+- positions:
+  - -7.146373577349152e-06
+  - 2.6297699963326338
+  - 0.7475182073181603
+  time_from_start: 121.999999999
+- positions:
+  - -7.146510583311283e-06
+  - 2.6297699271198454
+  - 0.7475184928826275
+  time_from_start: 122.099999999
+- positions:
+  - -7.153370349399779e-06
+  - 2.6297699935502994
+  - 0.7475182208913678
+  time_from_start: 122.199999999
+- positions:
+  - -7.146511014965995e-06
+  - 2.629769927855314
+  - 0.747518490418349
+  time_from_start: 122.299999999
+- positions:
+  - -7.146481821429518e-06
+  - 2.6297707897282194
+  - 0.7475143512366538
+  time_from_start: 122.399999999
+- positions:
+  - -7.146510642819237e-06
+  - 2.629769928114813
+  - 0.7475184902258594
+  time_from_start: 122.499999999
+- positions:
+  - -7.146468857577304e-06
+  - 2.62977000679793
+  - 0.7475181346174784
+  time_from_start: 122.599999999
+- positions:
+  - -7.146510367483927e-06
+  - 2.629769928038554
+  - 0.7475184917487088
+  time_from_start: 122.699999999
+- positions:
+  - -7.146469550356471e-06
+  - 2.629770012440229
+  - 0.7475181074781405
+  time_from_start: 122.799999999
+- positions:
+  - -7.277341240730095e-06
+  - 2.629770224269464
+  - 0.7475170897544805
+  time_from_start: 122.899999999
+- positions:
+  - -7.146470396790505e-06
+  - 2.6297700189004907
+  - 0.7475180772780998
+  time_from_start: 122.999999999
+- positions:
+  - -7.14703498871927e-06
+  - 2.6297699988466814
+  - 0.7475181916780027
+  time_from_start: 123.099999999
+- positions:
+  - -7.1464719422209555e-06
+  - 2.6297700257846444
+  - 0.7475180458969257
+  time_from_start: 123.199999999
+- positions:
+  - -7.146384510825499e-06
+  - 2.6297699969918362
+  - 0.7475182041323469
+  time_from_start: 123.299999999
+- positions:
+  - -7.146510162314712e-06
+  - 2.6297699264676666
+  - 0.7475184952183023
+  time_from_start: 123.399999999
+- positions:
+  - -7.146339489061404e-06
+  - 2.629769994155293
+  - 0.7475182178570927
+  time_from_start: 123.499999999
+- positions:
+  - -7.146511035394099e-06
+  - 2.629769927606903
+  - 0.7475184912023725
+  time_from_start: 123.599999999
+- positions:
+  - -7.183802776644654e-06
+  - 2.6297699938229773
+  - 0.7475182229356827
+  time_from_start: 123.699999999
+- positions:
+  - -7.1465108382184894e-06
+  - 2.629769928051372
+  - 0.7475184902626575
+  time_from_start: 123.799999999
+- positions:
+  - -7.146468453456123e-06
+  - 2.6297700048124657
+  - 0.7475181436611678
+  time_from_start: 123.899999999
+- positions:
+  - -7.146510354161251e-06
+  - 2.629769927953099
+  - 0.7475184916143274
+  time_from_start: 123.999999999
+- positions:
+  - -7.1464692101841365e-06
+  - 2.6297700101998966
+  - 0.7475181178484807
+  time_from_start: 124.099999999
+- positions:
+  - -7.146499270582751e-06
+  - 2.6297699317044767
+  - 0.7475184892474251
+  time_from_start: 124.199999999
+- positions:
+  - -7.146470064611776e-06
+  - 2.6297700163588047
+  - 0.7475180891141031
+  time_from_start: 124.299999999
+- positions:
+  - -7.1474376355240565e-06
+  - 2.629769998890918
+  - 0.7475181887865636
+  time_from_start: 124.399999999
+- positions:
+  - -7.146471181940228e-06
+  - 2.6297700227606153
+  - 0.7475180592906119
+  time_from_start: 124.499999999
+- positions:
+  - -7.146530171198151e-06
+  - 2.629769997904461
+  - 0.7475181991768896
+  time_from_start: 124.599999999
+- positions:
+  - -6.741875874460845e-06
+  - 2.6297696509344526
+  - 0.7475198656095525
+  time_from_start: 124.699999999
+- positions:
+  - -7.146357602572095e-06
+  - 2.6297699953925537
+  - 0.7475182118246879
+  time_from_start: 124.799999999
+- positions:
+  - -7.14651091104912e-06
+  - 2.629769927268711
+  - 0.7475184927567851
+  time_from_start: 124.899999999
+- positions:
+  - -7.160297389674497e-06
+  - 2.6297699930436913
+  - 0.7475182234257556
+  time_from_start: 124.999999999
+- positions:
+  - -7.146511031841385e-06
+  - 2.629769927803343
+  - 0.7475184908598447
+  time_from_start: 125.099999999
+- positions:
+  - -6.624484691464261e-06
+  - 2.629769512557269
+  - 0.7475204651308989
+  time_from_start: 125.199999999
+- positions:
+  - -7.146510520250615e-06
+  - 2.6297699279047535
+  - 0.7475184912844304
+  time_from_start: 125.299999999
+- positions:
+  - -7.146468870011802e-06
+  - 2.62977000741164
+  - 0.7475181312586763
+  time_from_start: 125.399999999
+- positions:
+  - -7.146510337285861e-06
+  - 2.629769927839572
+  - 0.7475184927406895
+  time_from_start: 125.499999999
+- positions:
+  - -7.1464695974299275e-06
+  - 2.6297700129918127
+  - 0.7475181048225172
+  time_from_start: 125.599999999
+- positions:
+  - -7.124188651452812e-06
+  - 2.6297706393730333
+  - 0.7475150866131788
+  time_from_start: 125.699999999
+- positions:
+  - -7.146470363927904e-06
+  - 2.6297700189043187
+  - 0.7475180771742433
+  time_from_start: 125.799999999
+- positions:
+  - -7.146958525439118e-06
+  - 2.6297699987088734
+  - 0.7475181927766954
+  time_from_start: 125.899999999
+- positions:
+  - -7.146471785013375e-06
+  - 2.629770025131423
+  - 0.7475180482996944
+  time_from_start: 125.999999999
+- positions:
+  - -7.146386795220394e-06
+  - 2.6297699971224837
+  - 0.7475182034512313
+  time_from_start: 126.099999999
+- positions:
+  - -7.068500325502214e-06
+  - 2.629769851308417
+  - 0.7475168701234081
+  time_from_start: 126.199999999
+- positions:
+  - -7.146345160968792e-06
+  - 2.6297699945458692
+  - 0.7475182159142255
+  time_from_start: 126.299999999
+- positions:
+  - -7.14651105138131e-06
+  - 2.6297699272906456
+  - 0.7475184924333345
+  time_from_start: 126.399999999
+- positions:
+  - -7.168619148956168e-06
+  - 2.6297699924891713
+  - 0.7475182262893254
+  time_from_start: 126.499999999
+- positions:
+  - -7.146510988320642e-06
+  - 2.6297699278455315
+  - 0.7475184909597621
+  time_from_start: 126.599999999
+- positions:
+  - -7.538845110843795e-06
+  - 2.6297697202521704
+  - 0.7475195598643936
+  time_from_start: 126.699999999
+- positions:
+  - -7.1465103896883875e-06
+  - 2.6297699277633964
+  - 0.747518492082313
+  time_from_start: 126.799999999
+- positions:
+  - -7.146468895768976e-06
+  - 2.6297700082203193
+  - 0.7475181269815598
+  time_from_start: 126.899999999
+- positions:
+  - -7.146510308864151e-06
+  - 2.629769927714136
+  - 0.7475184934529127
+  time_from_start: 126.999999999
+- positions:
+  - -7.1464696862477695e-06
+  - 2.629770013771063
+  - 0.7475181011388354
+  time_from_start: 127.099999999
+- positions:
+  - -7.124233597721741e-06
+  - 2.629770639221187
+  - 0.7475150874045431
+  time_from_start: 127.199999999
+- positions:
+  - -7.146470403895933e-06
+  - 2.6297700193655924
+  - 0.7475180749675152
+  time_from_start: 127.299999999
+- positions:
+  - -7.146815949710117e-06
+  - 2.6297699985648073
+  - 0.7475181943815317
+  time_from_start: 127.399999999
+- positions:
+  - -7.1464717770197694e-06
+  - 2.629770025114574
+  - 0.7475180483006154
+  time_from_start: 127.499999999
+- positions:
+  - -7.146385438971947e-06
+  - 2.62976999704971
+  - 0.7475182037844776
+  time_from_start: 127.599999999
+- positions:
+  - -7.484373391264398e-06
+  - 2.6297695905099587
+  - 0.7475200892653211
+  time_from_start: 127.699999999
+- positions:
+  - -7.1463458999332374e-06
+  - 2.6297699946009327
+  - 0.7475182156224083
+  time_from_start: 127.799999999
+- positions:
+  - -7.146468785634852e-06
+  - 2.629770007031695
+  - 0.7475181329342337
+  time_from_start: 127.899999999
+- positions:
+  - -7.1465103514967154e-06
+  - 2.629769927621398
+  - 0.7475184934469192
+  time_from_start: 127.999999999
+- positions:
+  - -7.146469408247924e-06
+  - 2.629770011938339
+  - 0.7475181096198851
+  time_from_start: 128.099999999
+- positions:
+  - -7.146507924993273e-06
+  - 2.629769931387509
+  - 0.7475184906506689
+  time_from_start: 128.199999999
+- positions:
+  - -7.146470140106942e-06
+  - 2.6297700173574547
+  - 0.7475180843087381
+  time_from_start: 128.299999999
+- positions:
+  - -7.147245805860791e-06
+  - 2.6297699991325967
+  - 0.747518188782565
+  time_from_start: 128.399999999
+- positions:
+  - -7.146471241448182e-06
+  - 2.629770023033286
+  - 0.7475180579088603
+  time_from_start: 128.499999999
+- positions:
+  - -7.146477401853701e-06
+  - 2.629769997629815
+  - 0.7475182006097558
+  time_from_start: 128.599999999
+- positions:
+  - -7.539659499400386e-06
+  - 2.6297695692527867
+  - 0.7475202648483741
+  time_from_start: 128.699999999
+- positions:
+  - -7.146361536314316e-06
+  - 2.6297699956292817
+  - 0.7475182106197442
+  time_from_start: 128.799999999
